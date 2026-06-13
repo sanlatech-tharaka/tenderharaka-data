@@ -35,7 +35,7 @@ jobs:
       # OPTIONAL — AI summaries. Add ANTHROPIC_API_KEY in:
       # Repo Settings -> Secrets and variables -> Actions -> New secret
       - name: AI summarise (optional)
-        if: ${{ secrets.ANTHROPIC_API_KEY != '' }}
+        if: false
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python summarise.py --limit 30 && python scraper.py --json-only
