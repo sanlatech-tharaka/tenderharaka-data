@@ -1,0 +1,49 @@
+name: Scrape tenders
+
+# Runs the scraper for free on GitHub's servers:
+#   - every 6 hours, and
+#   - whenever you trigger it manually from the Actions tab.
+# It commits the updated tenders.json back to the repo, so your
+# website (GitHub Pages / Cloudflare Pages) always serves fresh data.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"     # every 6 hours (UTC)
+  workflow_dispatch:           # manual "Run workflow" button
+
+permissions:
+  contents: write              # allow the workflow to commit tenders.json
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scraper.py
+
+      # OPTIONAL — AI summaries. Add ANTHROPIC_API_KEY in:
+      # Repo Settings -> Secrets and variables -> Actions -> New secret
+      - name: AI summarise (optional)
+        if: ${{ secrets.ANTHROPIC_API_KEY != '' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python summarise.py --limit 30 && python scraper.py --json-only
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "haraka-bot"
+          git config user.email "bot@tenderharaka.co.ke"
+          git add tenders.json tenders.db
+          git diff --cached --quiet || git commit -m "Update tenders $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
