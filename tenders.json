@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-06-14T17:02:40.741275+00:00",
+  "generated_at": "2026-06-14T22:20:55.364336+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "REGISTRATION OF SUPPLIERS FOR PROVISION OF TENTS, CHAIRS AND DECOR",
+      "entity": "",
+      "category": "Security",
+      "county": "Nairobi",
+      "deadline": "2026-06-15",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/292508",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-14T22:20:53.074027+00:00"
+    },
+    {
+      "title": "REGISTRATION OF SUPPLIERS FOR SUPPLY AND DELIVERY OF BRANDED UNIFORMS,SPORTS KIT AND PROTECTIVE CLOTHING.",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Nairobi",
+      "deadline": "2026-06-15",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/292513",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-14T22:20:53.072520+00:00"
+    },
+    {
+      "title": "REGISTRATION OF SUPPLIERS FOR PROVISION OF INSURANCE BROKERAGE FOR GENERAL AND MOTOR VEHICLE INSURANCE",
+      "entity": "",
+      "category": "Transport",
+      "county": "Nairobi",
+      "deadline": "2026-06-15",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/292515",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-14T22:20:53.071291+00:00"
+    },
     {
       "title": "REGISTRATION OF SUPPLIERS FOR PROVISION OF TRAINING SERVICES, MANAGEMENT CONSULTANCY SERVICES IN RESEARCH, PERFORMANCE CONTRACTING, JOB EVALUATION AND STRATEGIC PLANNING",
       "entity": "",
@@ -685,42 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.870904+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/RFP/006/2024-2025 – CONSULTANCY SERVICES FOR PRODUCTION OF DOCUMENTARY (FRAMEWORK CONTRACT FOR THREE YEARS)",
-      "entity": "PPRA-listed entity",
-      "category": "ICT",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-consultancy-services-for-production-of-documentary-framework-contract-for-three-years/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.869440+00:00"
-    },
-    {
-      "title": "ADDENDUM I – CONSULTANCY SERVICE FOR PRODUCTION OF DOCUMENTARY: EXTENSION OF CLOSING DATE",
-      "entity": "PPRA-listed entity",
-      "category": "Consultancy",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/addendum-i-consultancy-service-for-production-of-documentary-extension-of-closing-date/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.868127+00:00"
-    },
-    {
-      "title": "TENDER No. PPRA/OT/45/2024-2025 FOR SUPPLY & DELIVERY OF LAPTOPS",
-      "entity": "PPRA-listed entity",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppraot452024-2025-for-supply-delivery-of-laptops/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.861210+00:00"
     }
   ]
 }
