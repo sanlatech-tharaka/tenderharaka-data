@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-06-17T13:03:53.696077+00:00",
+  "generated_at": "2026-06-17T23:09:15.814784+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "Supply and Delivery of  Motor Vehicles Fuels and Lubricants",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Nairobi",
+      "deadline": "2026-06-18",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/292715",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-17T23:09:14.062463+00:00"
+    },
+    {
+      "title": "Supply and Delivery of Hire of Tents and Related Accessories",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Nairobi",
+      "deadline": "2026-06-18",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/292717",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-17T23:09:14.061100+00:00"
+    },
+    {
+      "title": "Provision of Insurance Services",
+      "entity": "",
+      "category": "Healthcare",
+      "county": "Nairobi",
+      "deadline": "2026-06-18",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/292719",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-17T23:09:14.059805+00:00"
+    },
+    {
+      "title": "Provision of Welding/Plumbing/Furniture & General Repair services",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Nairobi",
+      "deadline": "2026-06-18",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/292720",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-17T23:09:14.058701+00:00"
+    },
     {
       "title": "Provision of Servicing of Firefighting Equipment",
       "entity": "",
@@ -673,54 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-06-16T18:21:09.952610+00:00"
-    },
-    {
-      "title": "Supply & Delivery of General Office Stationeries",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "2026-06-17",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/291001",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-16T18:21:09.951120+00:00"
-    },
-    {
-      "title": "Supply & Delivery of Laboratory Chemicals & Equipment",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "2026-06-17",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/291005",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-16T18:21:09.949744+00:00"
-    },
-    {
-      "title": "Supply & Delivery of Toners, Copy Printer Master",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "2026-06-17",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/291010",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-16T18:21:09.948359+00:00"
-    },
-    {
-      "title": "Supply & Printing of Students ID Cards",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "2026-06-17",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/291012",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-16T18:21:09.947001+00:00"
     }
   ]
 }
