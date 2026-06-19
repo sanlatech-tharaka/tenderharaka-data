@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-06-19T16:20:05.060121+00:00",
+  "generated_at": "2026-06-19T21:55:07.735600+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "CONSTRUCTION OF HOTE WATER PAN IN WAJIR NORTH CONSTITUENCY, WAJIR COUNTY.",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-06-22",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/293936",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-19T21:55:05.415838+00:00"
+    },
+    {
+      "title": "CONSTRUCTION OF BUTE WAYAMO WATER PAN IN WAJIR NORTH CONSTITUENCY, WAJIR COUNTY",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-06-22",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/293944",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-19T21:55:05.413898+00:00"
+    },
     {
       "title": "CONSTRUCTION OF RABSO WATER PAN IN WAJIR NORTH CONSTITUENCY, WAJIR COUNTY.",
       "entity": "",
@@ -697,30 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-06-18T12:33:42.167335+00:00"
-    },
-    {
-      "title": "Proposed Erection and Completion Works  of Twin Laboratory at Mufungu Girls Secondary School",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-06-19",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/294566",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-18T12:33:42.163993+00:00"
-    },
-    {
-      "title": "Proposed Construction to Completion of  2No. Classrooms at Nabuloli Primary School",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-06-19",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/294567",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-18T12:33:42.161561+00:00"
     }
   ]
 }
