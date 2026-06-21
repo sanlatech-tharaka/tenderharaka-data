@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T21:57:16.972440+00:00",
+  "generated_at": "2026-06-21T11:33:37.800622+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
     {
@@ -589,18 +589,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-06-19T16:20:03.772263+00:00"
-    },
-    {
-      "title": "CONTINUOUS SUPPLIER REGISTRATION FOR DIFFERENT CATEGORIES",
-      "entity": "",
-      "category": "Security",
-      "county": "Nyandarua",
-      "deadline": "2026-06-20",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/265433",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-19T16:20:03.770015+00:00"
     },
     {
       "title": "PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
