@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-06-22T17:58:22.650418+00:00",
+  "generated_at": "2026-06-22T23:06:46.361187+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROPOSED CONSTRUCTION AND EQUIPPING OF 2 CLASSROOMS AT RURUTA HGM PRIMARY SCHOOL IN DAGORETTI NORTH CONSTITUENCY",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-06-23",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/295125",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-22T23:06:44.006697+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION AND EQUIPPING OF OLOKURTO DEPUTY COUNTY COMMISSIONER’S OFFICE COMPRISING OF 7 OFFICES IN NAROK NORTH CONSTITUENCY",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-06-23",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/295127",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-22T23:06:44.002814+00:00"
+    },
     {
       "title": "PROPOSED CONSTRUCTION OF FULLY EQUIPPED THREE (3) CLASSROOMS AT SIMOTWET R.C PRIMARY SCHOOL IN MT. ELGON CONSTITUENCY",
       "entity": "",
@@ -697,30 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-06-21T22:38:34.142552+00:00"
-    },
-    {
-      "title": "CONSTRUCTION OF CHOROQO WATER PAN IN BANISA CONSTITUENCY, MANDERA COUNTY",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-06-22",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/293927",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-21T22:38:34.140768+00:00"
-    },
-    {
-      "title": "CONSTRUCTION OF HOTE WATER PAN IN WAJIR NORTH CONSTITUENCY, WAJIR COUNTY.",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-06-22",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/293936",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-19T21:55:05.415838+00:00"
     }
   ]
 }
