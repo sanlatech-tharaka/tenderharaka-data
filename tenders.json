@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-06-25T10:29:52.481236+00:00",
+  "generated_at": "2026-06-25T19:22:13.079941+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "DISPOSAL OF PLANT AND MACHINERY FOR AMOR COCO KENYA(EPZ) LIMITED(in ADMINISTRATION),L OCATED AT MTWAPA EPZ,KILIFI COUNTY",
+      "entity": "",
+      "category": "Security",
+      "county": "Kilifi",
+      "deadline": "2026-06-26",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/295229",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-25T19:22:10.667726+00:00"
+    },
+    {
+      "title": "REHABILITATION OF MLOLONGO - KAMULU ROAD (KATANI - RIM HOUSE)",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-06-26",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/295233",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-25T19:22:10.665987+00:00"
+    },
+    {
+      "title": "IMPROVEMENT OF ACCESS ROAD TO KIBONDENI COLLEGE AND PERIODIC MAINTENANCE OF KABARSIRAN ROAD",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-06-26",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/295249",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-25T19:22:10.664155+00:00"
+    },
+    {
+      "title": "IMPROVEMENT OF ACCESS ROADS AND PARKING TO PAVING BLOCK STANDARD AT KABIANGA UNIVERSITY KERICHO COUNTY",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-06-26",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/295255",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-25T19:22:10.662486+00:00"
+    },
     {
       "title": "IMPROVEMENT TO BITUMEN STANDARD OF NYAMIRA TOWN ROADS",
       "entity": "",
@@ -673,54 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-06-24T18:22:44.157082+00:00"
-    },
-    {
-      "title": "THE PROPOSED CONSTRUCTION OF EMBAKASI WEST NGCDF OFFICE",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-06-25",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/295432",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-24T18:22:44.155750+00:00"
-    },
-    {
-      "title": "THE PROPOSED CONSTRUCTION OF KCC TVET CENTRE",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-06-25",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/295433",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-24T18:22:44.154214+00:00"
-    },
-    {
-      "title": "THE PROPOSED RENOVATION OF 8 NO. CLASSROOMS AT KARIOBANGI SOUTH PRIMARY SCHOOL - NAIROBI",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-06-25",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/295435",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-24T18:22:44.152701+00:00"
-    },
-    {
-      "title": "THE PROPOSED CONSTRUCTION TO COMPLETION OF A NON-STOREY 2 NO. DOOR TOILET BLOCK AT UMOJA 1 PWD CENTER - NAIROBI",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-06-25",
-      "agpo": "PWD",
-      "url": "https://tenders.go.ke/tenders/295442",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-24T18:22:44.150919+00:00"
     }
   ]
 }
