@@ -1,7 +1,103 @@
 {
-  "generated_at": "2026-06-28T16:41:31.279184+00:00",
+  "generated_at": "2026-06-28T21:45:50.017404+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "SUPPLY OF TEA LEAVES",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Nakuru",
+      "deadline": "2026-06-29",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/296108",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-28T21:45:48.082122+00:00"
+    },
+    {
+      "title": "SUPPLY OF DETERGENTS/ DISINFECTANTS",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Nakuru",
+      "deadline": "2026-06-29",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/296109",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-28T21:45:48.080302+00:00"
+    },
+    {
+      "title": "SUPPLY OF FRESH MILK FROM FARM",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Nakuru",
+      "deadline": "2026-06-29",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/296111",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-28T21:45:48.078632+00:00"
+    },
+    {
+      "title": "SUPPLY OF DRY MAIZE",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Nakuru",
+      "deadline": "2026-06-29",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/296112",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-28T21:45:48.076824+00:00"
+    },
+    {
+      "title": "PROVISION OF SCHOOL MOTOR VEHICLE REPAIR & MAINTENANCE",
+      "entity": "",
+      "category": "Transport",
+      "county": "Nakuru",
+      "deadline": "2026-06-29",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/296117",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-28T21:45:48.074936+00:00"
+    },
+    {
+      "title": "SUPPLY OF SCHOOL MOTOR VEHICLE FUEL & LUBRICANTS",
+      "entity": "",
+      "category": "Transport",
+      "county": "Nakuru",
+      "deadline": "2026-06-29",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/296120",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-28T21:45:48.073124+00:00"
+    },
+    {
+      "title": "SUPPLY OF STUDENTS BRANDED TRACK-SUITS & P.E KITS",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Nakuru",
+      "deadline": "2026-06-29",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/296122",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-28T21:45:48.071359+00:00"
+    },
+    {
+      "title": "PROVISION OF INSUARANCE FOR SCHOOL PROPERTY & BUILDINGS",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nakuru",
+      "deadline": "2026-06-29",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/296126",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-28T21:45:48.069562+00:00"
+    },
     {
       "title": "SUPPLY OF  SMART TV(s)",
       "entity": "",
@@ -625,102 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.878695+00:00"
-    },
-    {
-      "title": "ADDENDUM TO TENDER NO: PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/addendum-ppraot052023-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.877477+00:00"
-    },
-    {
-      "title": "PPRA/OT/03/2024-2025 FOR PROVISION OF CLEANING,  SANITARY AND FUMIGATION SERVICES",
-      "entity": "PPRA-listed entity",
-      "category": "Cleaning",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-cleaning-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.876130+00:00"
-    },
-    {
-      "title": "TENDER No. PPRA/OT/04/2024-2025 FOR SUPPLY & DELIVERY OF LAPTOPS",
-      "entity": "PPRA-listed entity",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-laptops-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.874911+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/05/2024-2025 FOR  PROVISION OF MEDICAL INSURANCE COVER FOR BOARD MEMBERS AND STAFF",
-      "entity": "PPRA-listed entity",
-      "category": "Healthcare",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppra052024-2025-for-provision-of-medical-insurance-cover-for-board-members-and-staff/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.873323+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/RFP/006/2024–2025 FOR CONSULTANCY SERVICES FOR PROVISION OF TRAINING TO PPRA STAFF AND PERSONS  INVOLVED IN PUBLIC PROCUREMENT AND ASSET DISPOSAL SYSTEM",
-      "entity": "PPRA-listed entity",
-      "category": "ICT",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-for-consultancy-services-for-provision-of-training-to-ppra-staff-and-persons-involved-in-public-procurement-and-asset-disposal-system/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.872054+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/OT/28/2024-2025 FOR PROCUREMENT OF OFFICE PREMISES",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "Kisumu",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppraot282024-2025-for-procurement-of-office-premises/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.870904+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/RFP/006/2024-2025 – CONSULTANCY SERVICES FOR PRODUCTION OF DOCUMENTARY (FRAMEWORK CONTRACT FOR THREE YEARS)",
-      "entity": "PPRA-listed entity",
-      "category": "ICT",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-consultancy-services-for-production-of-documentary-framework-contract-for-three-years/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.869440+00:00"
-    },
-    {
-      "title": "ADDENDUM I – CONSULTANCY SERVICE FOR PRODUCTION OF DOCUMENTARY: EXTENSION OF CLOSING DATE",
-      "entity": "PPRA-listed entity",
-      "category": "Consultancy",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/addendum-i-consultancy-service-for-production-of-documentary-extension-of-closing-date/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.868127+00:00"
     }
   ]
 }
