@@ -1,7 +1,91 @@
 {
-  "generated_at": "2026-06-30T11:29:50.949945+00:00",
+  "generated_at": "2026-06-30T18:23:52.428349+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "ZIWA - KEROTET - BRONJO ROAD (G74672)",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-07-01",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/297838",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-30T18:23:50.532544+00:00"
+    },
+    {
+      "title": "KIBOROM ACCESS ROAD (G74800)",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-07-01",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/297839",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-30T18:23:50.530741+00:00"
+    },
+    {
+      "title": "KIPSANGUI - CHEMAMUL - KABOBO ROAD (E7146)",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-07-01",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/297840",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-30T18:23:50.529194+00:00"
+    },
+    {
+      "title": "JABALI - SAOS - TENAI ROAD (F7070)",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-07-01",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/297841",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-30T18:23:50.527445+00:00"
+    },
+    {
+      "title": "MUGUNDOI - KAMUGEI ROAD (G73805)",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-07-01",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/297842",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-30T18:23:50.525592+00:00"
+    },
+    {
+      "title": "REALE HOSPITAL ACCESS ROADS (UK27_05)",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-07-01",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/297843",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-30T18:23:50.522983+00:00"
+    },
+    {
+      "title": "LESSOS - KABORE ROAD (C642)",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-07-01",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/297844",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-30T18:23:50.521374+00:00"
+    },
     {
       "title": "SUPPLY OF DRY CEREALS",
       "entity": "",
@@ -637,90 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-06-29T22:18:49.881708+00:00"
-    },
-    {
-      "title": "SUPPLY OF GAMES EQUIPMENT AND STUDENTS TRACK SUIT",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "2026-06-30",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297175",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-29T22:18:49.879961+00:00"
-    },
-    {
-      "title": "SUPPLY OF STAFF UNIFORMS",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "2026-06-30",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297178",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-29T22:18:49.878323+00:00"
-    },
-    {
-      "title": "SUPPLY AND DELIVERY OF SUGAR AND TEA LEAVES",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "2026-06-30",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297180",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-29T22:18:49.876608+00:00"
-    },
-    {
-      "title": "PROPOSED RENOVATION TO COMPLETION OF 6NO CLASSROOMS AT CHIAKARIGA PRIMARY SCHOOL.",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-06-30",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297181",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-29T22:18:49.874975+00:00"
-    },
-    {
-      "title": "SUPPLY AND DELIVERY OF RICE",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "2026-06-30",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297183",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-29T22:18:49.873378+00:00"
-    },
-    {
-      "title": "SUPPLY OF COOKING FAT,OIL,SALT,BAR SOAP",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-06-30",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297184",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-29T22:18:49.871737+00:00"
-    },
-    {
-      "title": "HARDWARE SUPPLIES AND ELECTRONIC",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-06-30",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297186",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-29T22:18:49.870080+00:00"
     }
   ]
 }
