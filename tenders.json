@@ -1,7 +1,79 @@
 {
-  "generated_at": "2026-07-06T14:07:33.313299+00:00",
+  "generated_at": "2026-07-06T22:45:58.961542+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "repair and maintenance of the generator",
+      "entity": "",
+      "category": "Security",
+      "county": "Busia",
+      "deadline": "2026-07-07",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/296471",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-06T22:45:56.561966+00:00"
+    },
+    {
+      "title": "repair and maintenance of motor vehicles",
+      "entity": "",
+      "category": "Transport",
+      "county": "Busia",
+      "deadline": "2026-07-07",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/296472",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-06T22:45:56.560078+00:00"
+    },
+    {
+      "title": "repair of homescience and music equipments",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Busia",
+      "deadline": "2026-07-07",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/296473",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-06T22:45:56.558336+00:00"
+    },
+    {
+      "title": "installation of accounting system",
+      "entity": "",
+      "category": "ICT",
+      "county": "Busia",
+      "deadline": "2026-07-07",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/296475",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-06T22:45:56.556547+00:00"
+    },
+    {
+      "title": "repair and maintenance of drainage system",
+      "entity": "",
+      "category": "ICT",
+      "county": "Busia",
+      "deadline": "2026-07-07",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/296476",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-06T22:45:56.554633+00:00"
+    },
+    {
+      "title": "THE PROPOSED EMERGENCY RENOVATION OF 5No. CLASSROOMS AT SIMUR PRIMARY SCHOOL, UKWALA WARD, UGENYA SUB-COUNTY.",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Kisumu",
+      "deadline": "2026-07-07",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/297895",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-06T22:45:56.552788+00:00"
+    },
     {
       "title": "THE PROPOSED SUPPLY AND INSTALLATION OF WATER TANK AT NGWELO FYM PRIMARY SCHOOL IN WEBUYE WEST CONSTITUENCY BUNGOMA COUNTY",
       "entity": "",
@@ -649,78 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-07-05T21:37:47.798210+00:00"
-    },
-    {
-      "title": "PROPOSED RENOVATION OF 2NO CLASSROOMS AT AMUMA PRIMARY SCHOOL",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Garissa",
-      "deadline": "2026-07-06",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297662",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-05T21:37:47.796402+00:00"
-    },
-    {
-      "title": "PROPOSED RENOVATION/REFURBISHMENT TO RESOURCES CENTRE ICT HUB AT BURA",
-      "entity": "",
-      "category": "ICT",
-      "county": "Garissa",
-      "deadline": "2026-07-06",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297663",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-05T21:37:47.795202+00:00"
-    },
-    {
-      "title": "PROPOSED INSTALLATION OF 5KVA SOLAR SYSTEM AT GALMAGALA POLICE STATION",
-      "entity": "",
-      "category": "ICT",
-      "county": "Garissa",
-      "deadline": "2026-07-06",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297664",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-05T21:37:47.793875+00:00"
-    },
-    {
-      "title": "DISPOSAL OF MOTOR VEHICLE",
-      "entity": "",
-      "category": "Transport",
-      "county": "Nairobi",
-      "deadline": "2026-07-06",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297634",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-05T21:37:47.792551+00:00"
-    },
-    {
-      "title": "Supply and delivery of clean dry maize",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "2026-07-06",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/296298",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-05T21:37:47.791180+00:00"
-    },
-    {
-      "title": "Supply and delivery of clean dry beans, green grams & Ndengu special",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "2026-07-06",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/296299",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-05T21:37:47.789837+00:00"
     }
   ]
 }
