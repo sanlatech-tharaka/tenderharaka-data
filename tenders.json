@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T21:50:43.965023+00:00",
+  "generated_at": "2026-07-09T11:26:20.405645+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
     {
@@ -651,76 +651,76 @@
       "first_seen": "2026-07-08T17:12:41.087829+00:00"
     },
     {
-      "title": "Proposed Equiping of Kapsabet County Referral Funeral Home.",
-      "entity": "",
+      "title": "TENDER NO. PPRA/DISP/OT/001/2025-2026 FOR DISPOSAL OF MOTOR VEHICLE",
+      "entity": "PPRA-listed entity",
+      "category": "Transport",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-no-ppradispot0012025-2026-for-disposal-of-motor-vehicle/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-29T14:51:06.940705+00:00"
+    },
+    {
+      "title": "PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
+      "entity": "PPRA-listed entity",
+      "category": "",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/leasing-tender-2024/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.878695+00:00"
+    },
+    {
+      "title": "ADDENDUM TO TENDER NO: PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
+      "entity": "PPRA-listed entity",
+      "category": "",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/addendum-ppraot052023-2024/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.877477+00:00"
+    },
+    {
+      "title": "PPRA/OT/03/2024-2025 FOR PROVISION OF CLEANING,  SANITARY AND FUMIGATION SERVICES",
+      "entity": "PPRA-listed entity",
+      "category": "Cleaning",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-cleaning-2024/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.876130+00:00"
+    },
+    {
+      "title": "TENDER No. PPRA/OT/04/2024-2025 FOR SUPPLY & DELIVERY OF LAPTOPS",
+      "entity": "PPRA-listed entity",
+      "category": "Supply of Goods",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-laptops-2024/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.874911+00:00"
+    },
+    {
+      "title": "TENDER NO. PPRA/05/2024-2025 FOR  PROVISION OF MEDICAL INSURANCE COVER FOR BOARD MEMBERS AND STAFF",
+      "entity": "PPRA-listed entity",
       "category": "Healthcare",
-      "county": "Nandi",
-      "deadline": "2026-07-08",
+      "county": "",
+      "deadline": "",
       "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297254",
-      "source": "tenders.go.ke",
+      "url": "https://ppra.go.ke/tender-no-ppra052024-2025-for-provision-of-medical-insurance-cover-for-board-members-and-staff/",
+      "source": "ppra.go.ke",
       "summary": "",
-      "first_seen": "2026-07-08T17:12:41.086392+00:00"
-    },
-    {
-      "title": "Proposed Construction of Modern Laundry at Kapsabet County Referral Hospital",
-      "entity": "",
-      "category": "Healthcare",
-      "county": "Nandi",
-      "deadline": "2026-07-08",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297256",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-08T17:12:41.085031+00:00"
-    },
-    {
-      "title": "Proposed construction of Kiptoros bridge",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nandi",
-      "deadline": "2026-07-08",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297257",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-08T17:12:41.083683+00:00"
-    },
-    {
-      "title": "Proposed construction of Laboret-Chepnoet footbridge",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nandi",
-      "deadline": "2026-07-08",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297259",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-08T17:12:41.082251+00:00"
-    },
-    {
-      "title": "Proposed construction of  Category  B Slaughter House at Nandi Hills",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nandi",
-      "deadline": "2026-07-08",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297260",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-08T17:12:41.080838+00:00"
-    },
-    {
-      "title": "Proposed construction of Aldai Aggregation Store at Kobujoi.",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nandi",
-      "deadline": "2026-07-08",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297261",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-08T17:12:41.079217+00:00"
+      "first_seen": "2026-06-13T18:58:02.873323+00:00"
     }
   ]
 }
