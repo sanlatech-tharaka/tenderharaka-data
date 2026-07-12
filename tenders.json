@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-12T15:39:21.603219+00:00",
+  "generated_at": "2026-07-12T20:28:08.894710+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROVISION OF PRINTING SERVICES i.e SIGNAGES, brochure, LPO BOOKS etc",
+      "entity": "",
+      "category": "Security",
+      "county": "",
+      "deadline": "2026-07-13",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/297802",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-12T20:28:06.581636+00:00"
+    },
     {
       "title": "PROVISION OF ASSET TAGGING AND LABELLING",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.869440+00:00"
-    },
-    {
-      "title": "ADDENDUM I – CONSULTANCY SERVICE FOR PRODUCTION OF DOCUMENTARY: EXTENSION OF CLOSING DATE",
-      "entity": "PPRA-listed entity",
-      "category": "Consultancy",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/addendum-i-consultancy-service-for-production-of-documentary-extension-of-closing-date/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.868127+00:00"
     }
   ]
 }
