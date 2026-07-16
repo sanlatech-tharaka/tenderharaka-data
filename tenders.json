@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-07-16T08:16:50.097422+00:00",
+  "generated_at": "2026-07-16T13:55:33.175805+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "Framework Contract for Website Maintenance and Support services",
+      "entity": "",
+      "category": "Security",
+      "county": "Kitui",
+      "deadline": "2026-07-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/297393",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-16T13:55:31.169175+00:00"
+    },
+    {
+      "title": "Framework Contract for Internet connectivity Services",
+      "entity": "",
+      "category": "Security",
+      "county": "Kitui",
+      "deadline": "2026-07-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/297394",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-16T13:55:31.167686+00:00"
+    },
+    {
+      "title": "Framework Contract for Local Area Network (LAN) Maintenance and Support Services- Including Networking Equipment, Structured Cabling, And Wireless Infrastructure",
+      "entity": "",
+      "category": "ICT",
+      "county": "Kitui",
+      "deadline": "2026-07-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/297396",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-16T13:55:31.166008+00:00"
+    },
     {
       "title": "Framework Contract for Provision of End-User Software Licences and Renewals - Including Microsoft Office, Operating Systems, Internet Security, and Other Productivity Software",
       "entity": "",
@@ -685,42 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-07-15T13:46:27.900147+00:00"
-    },
-    {
-      "title": "IMPROVEMENT OF SHOOTING RANGE - KIAMUMBI ROAD IN KIAMBU TOWN   PACKAGE 21",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-07-16",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/298254",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-15T13:46:27.898184+00:00"
-    },
-    {
-      "title": "NAIROBI ROADS REGENERATION AND DRAINAGE WORKS PACKAGE 21 (ROYSAMBU AREA)",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-07-16",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/298255",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-15T13:46:27.896464+00:00"
-    },
-    {
-      "title": "NAIROBI ROADS REGENERATION PROGRAM PHASE 3-PACKAGE 9 (KASARANI)",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-07-16",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/298257",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-15T13:46:27.894695+00:00"
     }
   ]
 }
