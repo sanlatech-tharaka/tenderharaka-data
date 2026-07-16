@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-07-16T13:55:33.175805+00:00",
+  "generated_at": "2026-07-16T19:14:22.965478+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "MUGET PRIMARY SCHOOL-Renovation of 4 No. classroom",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-07-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/300838",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-16T19:13:56.872211+00:00"
+    },
+    {
+      "title": "CHRIST THE KING KEMELIET SECONDARY SCHOOL-Construction of 4 door ablution block with one chamber for persons with disabilities",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-07-17",
+      "agpo": "PWD",
+      "url": "https://tenders.go.ke/tenders/300832",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-16T19:13:56.869128+00:00"
+    },
+    {
+      "title": "KIMORE PRIMARY SCHOOL-Construction to completion of two classrooms",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-07-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/300851",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-16T19:13:56.837360+00:00"
+    },
+    {
+      "title": "ITET PRIMARY SCHOOL-Renovation of 2 No. classrooms",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-07-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/300835",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-16T19:13:56.835495+00:00"
+    },
     {
       "title": "Framework Contract for Website Maintenance and Support services",
       "entity": "",
@@ -673,54 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-07-16T02:43:54.655256+00:00"
-    },
-    {
-      "title": "NAIROBI ROADS REGENERATION PROGRAM PHASE 3-PACKAGE 8 (EMBAKASI SOUTH)",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-07-16",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/298231",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-16T02:43:54.653663+00:00"
-    },
-    {
-      "title": "NAIROBI ROADS REGENERATION AND DRAINAGE WORKS PACKAGE 19   (MATHARE AREA)",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-07-16",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/298232",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-15T13:46:27.903843+00:00"
-    },
-    {
-      "title": "NAIROBI ROADS REGENERATION AND DRAINAGE WORKS PACKAGE 20 (KAMUKUNJI AREA)",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-07-16",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/298233",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-15T13:46:27.901850+00:00"
-    },
-    {
-      "title": "Nairobi Roads regeneration and Drainage works Package 24 (selected road within Dagoreti",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-07-16",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/298234",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-15T13:46:27.900147+00:00"
     }
   ]
 }
