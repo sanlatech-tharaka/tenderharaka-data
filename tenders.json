@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T19:12:45.144552+00:00",
+  "generated_at": "2026-07-18T02:37:01.967003+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
     {
@@ -687,40 +687,40 @@
       "first_seen": "2026-07-17T08:12:06.374754+00:00"
     },
     {
-      "title": "Framework Contract for Supply and Delivery of Petrol, Oils and Lubricants: Kitui, Mwingi, Mutitu, Kyuso, Kabati, Mutitu and Mutomo Towns and Surrounding Areas Supply Points",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Kitui",
-      "deadline": "2026-07-17",
+      "title": "TENDER NO. PPRA/DISP/OT/001/2025-2026 FOR DISPOSAL OF MOTOR VEHICLE",
+      "entity": "PPRA-listed entity",
+      "category": "Transport",
+      "county": "",
+      "deadline": "",
       "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297280",
-      "source": "tenders.go.ke",
+      "url": "https://ppra.go.ke/tender-no-ppradispot0012025-2026-for-disposal-of-motor-vehicle/",
+      "source": "ppra.go.ke",
       "summary": "",
-      "first_seen": "2026-07-17T08:12:06.372643+00:00"
+      "first_seen": "2026-06-29T14:51:06.940705+00:00"
     },
     {
-      "title": "Framework Contract for Provision of Events Management Services",
-      "entity": "",
-      "category": "Security",
-      "county": "Kitui",
-      "deadline": "2026-07-17",
+      "title": "PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
+      "entity": "PPRA-listed entity",
+      "category": "",
+      "county": "",
+      "deadline": "",
       "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297283",
-      "source": "tenders.go.ke",
+      "url": "https://ppra.go.ke/leasing-tender-2024/",
+      "source": "ppra.go.ke",
       "summary": "",
-      "first_seen": "2026-07-17T08:12:06.370423+00:00"
+      "first_seen": "2026-06-13T18:58:02.878695+00:00"
     },
     {
-      "title": "Framework Contract for Provision of Catering, Hotel Accommodation and Conference Services (for Mwingi, Kitui, Nairobi, Machakos, Nakuru, Naivasha and Mombasa)",
-      "entity": "",
-      "category": "Security",
-      "county": "Nairobi",
-      "deadline": "2026-07-17",
+      "title": "ADDENDUM TO TENDER NO: PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
+      "entity": "PPRA-listed entity",
+      "category": "",
+      "county": "",
+      "deadline": "",
       "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297285",
-      "source": "tenders.go.ke",
+      "url": "https://ppra.go.ke/addendum-ppraot052023-2024/",
+      "source": "ppra.go.ke",
       "summary": "",
-      "first_seen": "2026-07-17T08:12:06.368305+00:00"
+      "first_seen": "2026-06-13T18:58:02.877477+00:00"
     }
   ]
 }
