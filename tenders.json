@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-07-18T19:07:18.755538+00:00",
+  "generated_at": "2026-07-19T02:52:12.098730+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "LELAIBEI PRIMARY SCHOOL-RENOVATION OF 2 NO CLASSROOM",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-07-20",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/301068",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-19T02:52:10.275110+00:00"
+    },
+    {
+      "title": "MOIBEN UPPER SECONDARY SCHOOL-CONSTRUCTION OF ONE NUMBER CLASSROOM",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-07-20",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/301063",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-19T02:52:10.266546+00:00"
+    },
+    {
+      "title": "LELIT PRIMARY SCHOOL-RENOVATION TO COMPLETION OF TWO NUMBER CLASSROOM",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-07-20",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/301057",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-19T02:52:10.262645+00:00"
+    },
     {
       "title": "Proposed construction and completion of  5 roomed chief's office at Cheboite Chief's camp",
       "entity": "",
@@ -685,42 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-07-17T08:12:06.374754+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/DISP/OT/001/2025-2026 FOR DISPOSAL OF MOTOR VEHICLE",
-      "entity": "PPRA-listed entity",
-      "category": "Transport",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppradispot0012025-2026-for-disposal-of-motor-vehicle/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-29T14:51:06.940705+00:00"
-    },
-    {
-      "title": "PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/leasing-tender-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.878695+00:00"
-    },
-    {
-      "title": "ADDENDUM TO TENDER NO: PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/addendum-ppraot052023-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.877477+00:00"
     }
   ]
 }
