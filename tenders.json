@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-20T09:17:04.200759+00:00",
+  "generated_at": "2026-07-20T14:09:10.907582+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "SUPPLY AND DELIVERY OF PLUMBING MATERIALS",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Bungoma",
+      "deadline": "2026-07-21",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/300461",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-20T14:09:09.008253+00:00"
+    },
     {
       "title": "PROVISION OF SANITARY DISPOSAL SERVICES AND AUTOMATIC AIRFRESHNER",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-07-17T08:12:06.392204+00:00"
-    },
-    {
-      "title": "PROPOSED REHABILITATION AND RETICULATION OF OLENTIKITAM WATER SUPPLY IN MARA-SIANA WARD, NAROK WEST",
-      "entity": "",
-      "category": "ICT",
-      "county": "Narok",
-      "deadline": "2026-07-20",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/299933",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-17T08:12:06.390420+00:00"
     }
   ]
 }
