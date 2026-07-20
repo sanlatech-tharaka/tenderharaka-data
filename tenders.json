@@ -1,7 +1,103 @@
 {
-  "generated_at": "2026-07-20T03:20:26.494110+00:00",
+  "generated_at": "2026-07-20T09:17:04.200759+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROVISION OF SANITARY DISPOSAL SERVICES AND AUTOMATIC AIRFRESHNER",
+      "entity": "",
+      "category": "Security",
+      "county": "Bungoma",
+      "deadline": "2026-07-21",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/300627",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-20T09:17:02.273658+00:00"
+    },
+    {
+      "title": "Provision of Broadband Internet Capacity to Selected Government Sites",
+      "entity": "",
+      "category": "ICT",
+      "county": "Nairobi",
+      "deadline": "2026-07-21",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/292308",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-20T09:17:02.271774+00:00"
+    },
+    {
+      "title": "PREQUALIFICATION/REGISTRATION OF SUPPLIERS/CONTRACTORS FOR GOODS, WORKS & SERVICES",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-07-21",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/298609",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-20T09:17:02.270024+00:00"
+    },
+    {
+      "title": "CONSTRUCTION OF MULTIPURPOSE HALL AT MOGOMA SECONDARY SCHOOL IN BOMET EAST CONSTITUENCY",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Bomet",
+      "deadline": "2026-07-21",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/299075",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-20T09:17:02.268157+00:00"
+    },
+    {
+      "title": "PROPOSED RENOVATION TO COMPLETION OF 80 CAPACITY BOYS DORMITORY AT KOMBE SECONDARY SCHOOL",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-07-21",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/299819",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-20T09:17:02.266143+00:00"
+    },
+    {
+      "title": "PROPOSED RENOVATION TO COMPLETION OF 45 BOYS CAPACITY LABORATORY AT KUGITURA SECONDARY SCHOOL",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-07-21",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/299823",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-20T09:17:02.264226+00:00"
+    },
+    {
+      "title": "PRPOSED RENOVATION TO COMPLETION OF ONE CLASSROOM AT ST. KIZITO PRIMARY SCHOOL",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-07-21",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/299826",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-20T09:17:02.262489+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION TO COMPLETION OF 6PIT LATRINE WITH THREE BATROOM AND CHANGING ROOM AT MABERA PRIMARY SCHOOL",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-07-21",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/299829",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-20T09:17:02.260870+00:00"
+    },
     {
       "title": "LELAIBEI PRIMARY SCHOOL-RENOVATION OF 2 NO CLASSROOM",
       "entity": "",
@@ -625,102 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-07-17T08:12:06.390420+00:00"
-    },
-    {
-      "title": "TENDER FOR THE PROVISION OF MANAGED PRINTING SERVICES (LEASING OF MULTIFUNCTIONAL NETWORK PRINTERS)",
-      "entity": "",
-      "category": "ICT",
-      "county": "Kisumu",
-      "deadline": "2026-07-20",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/300004",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-17T08:12:06.388451+00:00"
-    },
-    {
-      "title": "TENDER FOR THE PROVISION OF COMPREHENSIVE MOTOR VEHICLE INSURANCE",
-      "entity": "",
-      "category": "Transport",
-      "county": "Kisumu",
-      "deadline": "2026-07-20",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/300007",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-17T08:12:06.386670+00:00"
-    },
-    {
-      "title": "TENDER FOR THE PROVISION OF AIRTICKETING SERVICES.",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Kisumu",
-      "deadline": "2026-07-20",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/300009",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-17T08:12:06.384315+00:00"
-    },
-    {
-      "title": "TENDER FOR THE PROVISION OF GROUP PERSONAL ACCIDENT, PUBLIC LIABILITY COVER AND WORK INJURY BENEFIT PLUS",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Kisumu",
-      "deadline": "2026-07-20",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/300011",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-17T08:12:06.382697+00:00"
-    },
-    {
-      "title": "Supply & Delivery of Fresh Bread, Milk, Meat on Bones & Maize Flour.",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Machakos",
-      "deadline": "2026-07-20",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/299827",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-17T08:12:06.380626+00:00"
-    },
-    {
-      "title": "Supply & Delivery of Rice",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Machakos",
-      "deadline": "2026-07-20",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/299837",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-17T08:12:06.378575+00:00"
-    },
-    {
-      "title": "PROVISION OF COMPREHENSIVE GENERAL INSURANCE COVER FOR KISM",
-      "entity": "",
-      "category": "Security",
-      "county": "",
-      "deadline": "2026-07-20",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/299145",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-17T08:12:06.376562+00:00"
-    },
-    {
-      "title": "PROPOSED ERECTION AND COMPLETION OF MULTI PURPOSE HALL AT ST. TRIZA MUNDERE GIRLS SECONDARY SCHOOL",
-      "entity": "",
-      "category": "ICT",
-      "county": "",
-      "deadline": "2026-07-20",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/300513",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-17T08:12:06.374754+00:00"
     }
   ]
 }
