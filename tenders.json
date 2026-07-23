@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-23T08:33:04.876898+00:00",
+  "generated_at": "2026-07-23T14:04:27.143867+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PRE-QUALIFICATION FOR SUPPLY AND DELIVERY OF OFFICE FURNITURE",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Kwale",
+      "deadline": "2026-07-28",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/300893",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-23T14:04:25.726545+00:00"
+    },
     {
       "title": "RENOVATION TO COMPLETION OF 8NO CLASSROOMS AND 5NO ROOMS OFFICES",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-07-22T08:31:42.053456+00:00"
-    },
-    {
-      "title": "REHABILITATION OF AMALA RIVER – BOMET – KAPLONG  (B7) ROAD      (Reserved for All)",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-07-23",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/298658",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-22T08:31:42.052236+00:00"
     }
   ]
 }
