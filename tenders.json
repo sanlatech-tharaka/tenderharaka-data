@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-07-24T08:29:46.048493+00:00",
+  "generated_at": "2026-07-24T13:47:55.520728+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROPOSED RENOVATION TO COMPLETION OF 4 ROOMED OFFICE: RE-ROOFING, FIXING OF CEILING, FIXING OF STEEL DOORS AND WINDOWS, FLOOR TILING, PLASTERING AND PAINTING AT ACC OFFICE,KAKUMA DIVISION.",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Turkana",
+      "deadline": "2026-07-28",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/300220",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-24T13:47:53.279791+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION TO COMPLETION OF 100 GIRLS' CAPACITY DORMITORY AND SUPPLY OF 50 DOUBLE DECKER BEDS AT AIC LOKICHOGGIO GIRLS PRIMARY SCHOOL",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Turkana",
+      "deadline": "2026-07-28",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/300224",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-24T13:47:53.278086+00:00"
+    },
     {
       "title": "PROPOSED CONSTRUCTION TO COMPLETION OF 100 GIRLS' CAPACITY DORMITORY AND SUPPLY OF 50 DOUBLE DECKER BEDS AT AIC LOPUR PRIMARY SCHOOL.",
       "entity": "",
@@ -697,30 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.877477+00:00"
-    },
-    {
-      "title": "PPRA/OT/03/2024-2025 FOR PROVISION OF CLEANING,  SANITARY AND FUMIGATION SERVICES",
-      "entity": "PPRA-listed entity",
-      "category": "Cleaning",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-cleaning-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.876130+00:00"
-    },
-    {
-      "title": "TENDER No. PPRA/OT/04/2024-2025 FOR SUPPLY & DELIVERY OF LAPTOPS",
-      "entity": "PPRA-listed entity",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-laptops-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.874911+00:00"
     }
   ]
 }
