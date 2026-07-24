@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-07-24T02:47:36.106847+00:00",
+  "generated_at": "2026-07-24T08:29:46.048493+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROPOSED CONSTRUCTION TO COMPLETION OF 100 GIRLS' CAPACITY DORMITORY AND SUPPLY OF 50 DOUBLE DECKER BEDS AT AIC LOPUR PRIMARY SCHOOL.",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Turkana",
+      "deadline": "2026-07-28",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/300226",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-24T08:29:44.904689+00:00"
+    },
+    {
+      "title": "PRE-QUALIFICATION OF SUPPLIERS FOR SUPPLY AND DELIVERY OF OFFICE STATIONERY",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Kwale",
+      "deadline": "2026-07-28",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/300772",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-24T08:29:44.903293+00:00"
+    },
+    {
+      "title": "PRE-QUALIFICATION OF SUPPLIERS FOR SUPPLY AND DELIVERY OF DRY FOODSTUFF",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Kwale",
+      "deadline": "2026-07-28",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/300774",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-24T08:29:44.901871+00:00"
+    },
+    {
+      "title": "PRE-QUALIFICATION OF SUPPLIERS FOR SUPPLY AND DELIVERY OF OIL AND LUBRICANTS",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Kwale",
+      "deadline": "2026-07-28",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/300778",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-24T08:29:44.900379+00:00"
+    },
+    {
+      "title": "PRE-QUALIFICATION OF SUPPLIERS FOR CATERING SERVICES",
+      "entity": "",
+      "category": "Security",
+      "county": "Kwale",
+      "deadline": "2026-07-28",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/300787",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-24T08:29:44.899008+00:00"
+    },
     {
       "title": "PRE-QUALIFICATION FOR GRINDING SERVICES",
       "entity": "",
@@ -661,66 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.874911+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/05/2024-2025 FOR  PROVISION OF MEDICAL INSURANCE COVER FOR BOARD MEMBERS AND STAFF",
-      "entity": "PPRA-listed entity",
-      "category": "Healthcare",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppra052024-2025-for-provision-of-medical-insurance-cover-for-board-members-and-staff/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.873323+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/RFP/006/2024–2025 FOR CONSULTANCY SERVICES FOR PROVISION OF TRAINING TO PPRA STAFF AND PERSONS  INVOLVED IN PUBLIC PROCUREMENT AND ASSET DISPOSAL SYSTEM",
-      "entity": "PPRA-listed entity",
-      "category": "ICT",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-for-consultancy-services-for-provision-of-training-to-ppra-staff-and-persons-involved-in-public-procurement-and-asset-disposal-system/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.872054+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/OT/28/2024-2025 FOR PROCUREMENT OF OFFICE PREMISES",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "Kisumu",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppraot282024-2025-for-procurement-of-office-premises/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.870904+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/RFP/006/2024-2025 – CONSULTANCY SERVICES FOR PRODUCTION OF DOCUMENTARY (FRAMEWORK CONTRACT FOR THREE YEARS)",
-      "entity": "PPRA-listed entity",
-      "category": "ICT",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-consultancy-services-for-production-of-documentary-framework-contract-for-three-years/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.869440+00:00"
-    },
-    {
-      "title": "ADDENDUM I – CONSULTANCY SERVICE FOR PRODUCTION OF DOCUMENTARY: EXTENSION OF CLOSING DATE",
-      "entity": "PPRA-listed entity",
-      "category": "Consultancy",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/addendum-i-consultancy-service-for-production-of-documentary-extension-of-closing-date/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.868127+00:00"
     }
   ]
 }
