@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T19:27:05.263721+00:00",
+  "generated_at": "2026-07-25T02:46:35.629440+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
     {
@@ -603,90 +603,6 @@
       "first_seen": "2026-07-23T08:33:03.561640+00:00"
     },
     {
-      "title": "PROVISION OF PROPERTY/FACILITY MANAGEMENT, LETTING AND MARKETING AGENCY SERVICES FOR KONZA TECHNOPOLIS. (RE-TENDER)",
-      "entity": "",
-      "category": "Security",
-      "county": "",
-      "deadline": "2026-07-24",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/300887",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-23T08:33:03.560360+00:00"
-    },
-    {
-      "title": "CONSULTANCY SERVICES FOR ENDLINE SURVEY AND PREPARATION  OF A PROJECT COMPLETION REPORT (PCR) FOR THE KENYA TOWNS  SUSTAINABLE WATER SUPPLY AND SANITATION PROGRAM",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-07-24",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/300060",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-23T08:33:03.559008+00:00"
-    },
-    {
-      "title": "TENDER FOR THE SUPPLY AND DELIVERY OF COLD WATER METERS, SMART METERS AND ACCESSORIES",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Kitui",
-      "deadline": "2026-07-24",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/300210",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-23T08:33:03.557633+00:00"
-    },
-    {
-      "title": "TENDER FOR THE SUPPLY AND DELIVERY OF UPVC, HDPE AND PPR PIPES AND FITTINGS",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Kitui",
-      "deadline": "2026-07-24",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/300295",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-23T08:33:03.556348+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION OF 8NO CLASSROOMS (ONE STOREYED TUITION BLOCK) AT EBUSILOLI PRIMARY SCHOOL.",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-07-24",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/300849",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-23T08:33:03.555058+00:00"
-    },
-    {
-      "title": "FRAMEWORK CONTRACT OF THREE YEARS FOR PRINTING, PACKAGING AND DISTRIBUTION OF GENERAL AND ADAPTED CURRICULUM DESIGNS FOR LEARNERS WITH VISUAL, HEARING AND PHYSICAL IMPAIRMENTS; AND VOCATIONAL-LEVEL  CURRICULUM DESIGNS FOR LEARNERS PURSUING STAGE- BASED PATHWAY",
-      "entity": "",
-      "category": "Security",
-      "county": "Nairobi",
-      "deadline": "2026-07-24",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/301093",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-23T08:33:03.553804+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION OF A SINGLE SCIENCE LABORATORY  AT ST GERALD’S SHANJERO SECONDARY SCHOOL",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Kakamega",
-      "deadline": "2026-07-24",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/301319",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-23T08:33:03.552431+00:00"
-    },
-    {
       "title": "TENDER NO. PPRA/DISP/OT/001/2025-2026 FOR DISPOSAL OF MOTOR VEHICLE",
       "entity": "PPRA-listed entity",
       "category": "Transport",
@@ -721,6 +637,90 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.877477+00:00"
+    },
+    {
+      "title": "PPRA/OT/03/2024-2025 FOR PROVISION OF CLEANING,  SANITARY AND FUMIGATION SERVICES",
+      "entity": "PPRA-listed entity",
+      "category": "Cleaning",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-cleaning-2024/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.876130+00:00"
+    },
+    {
+      "title": "TENDER No. PPRA/OT/04/2024-2025 FOR SUPPLY & DELIVERY OF LAPTOPS",
+      "entity": "PPRA-listed entity",
+      "category": "Supply of Goods",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-laptops-2024/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.874911+00:00"
+    },
+    {
+      "title": "TENDER NO. PPRA/05/2024-2025 FOR  PROVISION OF MEDICAL INSURANCE COVER FOR BOARD MEMBERS AND STAFF",
+      "entity": "PPRA-listed entity",
+      "category": "Healthcare",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-no-ppra052024-2025-for-provision-of-medical-insurance-cover-for-board-members-and-staff/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.873323+00:00"
+    },
+    {
+      "title": "TENDER NO. PPRA/RFP/006/2024–2025 FOR CONSULTANCY SERVICES FOR PROVISION OF TRAINING TO PPRA STAFF AND PERSONS  INVOLVED IN PUBLIC PROCUREMENT AND ASSET DISPOSAL SYSTEM",
+      "entity": "PPRA-listed entity",
+      "category": "ICT",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-for-consultancy-services-for-provision-of-training-to-ppra-staff-and-persons-involved-in-public-procurement-and-asset-disposal-system/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.872054+00:00"
+    },
+    {
+      "title": "TENDER NO. PPRA/OT/28/2024-2025 FOR PROCUREMENT OF OFFICE PREMISES",
+      "entity": "PPRA-listed entity",
+      "category": "",
+      "county": "Kisumu",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-no-ppraot282024-2025-for-procurement-of-office-premises/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.870904+00:00"
+    },
+    {
+      "title": "TENDER NO. PPRA/RFP/006/2024-2025 – CONSULTANCY SERVICES FOR PRODUCTION OF DOCUMENTARY (FRAMEWORK CONTRACT FOR THREE YEARS)",
+      "entity": "PPRA-listed entity",
+      "category": "ICT",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-consultancy-services-for-production-of-documentary-framework-contract-for-three-years/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.869440+00:00"
+    },
+    {
+      "title": "ADDENDUM I – CONSULTANCY SERVICE FOR PRODUCTION OF DOCUMENTARY: EXTENSION OF CLOSING DATE",
+      "entity": "PPRA-listed entity",
+      "category": "Consultancy",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/addendum-i-consultancy-service-for-production-of-documentary-extension-of-closing-date/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.868127+00:00"
     }
   ]
 }
