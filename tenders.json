@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-25T19:09:21.228450+00:00",
+  "generated_at": "2026-07-26T02:55:25.322947+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "REGISTRATION OF SUPPLIERS FOR GOODS, WORKS & SERVICES  FOR FY 2026/2027 & 2027/2028",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Bungoma",
+      "deadline": "2026-07-28",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/300023",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-26T02:55:23.126735+00:00"
+    },
     {
       "title": "PROPOSED RENOVATION TO COMPLETION OF 4 ROOMED OFFICE: RE-ROOFING, FIXING OF CEILING, FIXING OF STEEL DOORS AND WINDOWS, FLOOR TILING, PLASTERING AND PAINTING AT ACC OFFICE,KAKUMA DIVISION.",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.869440+00:00"
-    },
-    {
-      "title": "ADDENDUM I – CONSULTANCY SERVICE FOR PRODUCTION OF DOCUMENTARY: EXTENSION OF CLOSING DATE",
-      "entity": "PPRA-listed entity",
-      "category": "Consultancy",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/addendum-i-consultancy-service-for-production-of-documentary-extension-of-closing-date/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.868127+00:00"
     }
   ]
 }
