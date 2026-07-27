@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-27T09:55:03.270388+00:00",
+  "generated_at": "2026-07-27T14:38:16.424900+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "SUPPLY AND DELIVERY OF COMPUTERS AND ACCESSORIES",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Bungoma",
+      "deadline": "2026-07-28",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/299950",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-27T14:38:15.269380+00:00"
+    },
     {
       "title": "SUPPLY AND DELIVERY OF CATERING ITEMS",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-07-23T08:33:03.561640+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/DISP/OT/001/2025-2026 FOR DISPOSAL OF MOTOR VEHICLE",
-      "entity": "PPRA-listed entity",
-      "category": "Transport",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppradispot0012025-2026-for-disposal-of-motor-vehicle/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-29T14:51:06.940705+00:00"
     }
   ]
 }
