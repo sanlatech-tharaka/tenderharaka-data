@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-26T19:13:22.054086+00:00",
+  "generated_at": "2026-07-27T03:20:12.570932+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROVISION OF CONSULTANCY SERVICES",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Bungoma",
+      "deadline": "2026-07-28",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/300005",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-27T03:20:11.269638+00:00"
+    },
     {
       "title": "REGISTRATION OF SUPPLIERS FOR GOODS, WORKS & SERVICES  FOR FY 2026/2027 & 2027/2028",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.870904+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/RFP/006/2024-2025 – CONSULTANCY SERVICES FOR PRODUCTION OF DOCUMENTARY (FRAMEWORK CONTRACT FOR THREE YEARS)",
-      "entity": "PPRA-listed entity",
-      "category": "ICT",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-consultancy-services-for-production-of-documentary-framework-contract-for-three-years/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.869440+00:00"
     }
   ]
 }
