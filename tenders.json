@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-07-27T19:35:30.364632+00:00",
+  "generated_at": "2026-07-28T02:38:50.407269+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "SUPPLY AND DELIVERY OF MOTOR VEHICLE TUBES,TYRES AND BATTERIES",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Bungoma",
+      "deadline": "2026-07-28",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/299940",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-28T02:38:48.574863+00:00"
+    },
+    {
+      "title": "PROVISION OF LANDSCAPING AND BEAUTIFICATION SERVICES",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Bungoma",
+      "deadline": "2026-07-28",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/299948",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-28T02:38:48.573316+00:00"
+    },
     {
       "title": "SUPPLY AND DELIVERY OF COMPUTERS AND ACCESSORIES",
       "entity": "",
@@ -627,100 +651,76 @@
       "first_seen": "2026-07-23T08:33:03.572711+00:00"
     },
     {
-      "title": "TENDER RE-ADVERTISEMENT",
-      "entity": "",
-      "category": "Security",
-      "county": "Kwale",
-      "deadline": "2026-07-27",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/299840",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-23T08:33:03.571419+00:00"
-    },
-    {
-      "title": "TENDER OF SUPPLIERS FOR GOODS, SERVICESAND WORKS FOR FINANCIAL YEARS 2026/2027",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Kwale",
-      "deadline": "2026-07-27",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/300056",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-23T08:33:03.570071+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION TO COMPLETION OF 1 NO. LABORATORY OF 45 STUDENTS CAPACITY.",
-      "entity": "",
-      "category": "Construction/Works",
+      "title": "TENDER NO. PPRA/DISP/OT/001/2025-2026 FOR DISPOSAL OF MOTOR VEHICLE",
+      "entity": "PPRA-listed entity",
+      "category": "Transport",
       "county": "",
-      "deadline": "2026-07-27",
+      "deadline": "",
       "agpo": "",
-      "url": "https://tenders.go.ke/tenders/300117",
-      "source": "tenders.go.ke",
+      "url": "https://ppra.go.ke/tender-no-ppradispot0012025-2026-for-disposal-of-motor-vehicle/",
+      "source": "ppra.go.ke",
       "summary": "",
-      "first_seen": "2026-07-23T08:33:03.568674+00:00"
+      "first_seen": "2026-06-29T14:51:06.940705+00:00"
     },
     {
-      "title": "CONSTRUCTION TO COMPLETION OF 2NO CLASSROOMS AT ST FRANCIS METEMBE SECONDARY SCHOOL",
-      "entity": "",
-      "category": "Construction/Works",
+      "title": "PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
+      "entity": "PPRA-listed entity",
+      "category": "",
       "county": "",
-      "deadline": "2026-07-27",
+      "deadline": "",
       "agpo": "",
-      "url": "https://tenders.go.ke/tenders/301247",
-      "source": "tenders.go.ke",
+      "url": "https://ppra.go.ke/leasing-tender-2024/",
+      "source": "ppra.go.ke",
       "summary": "",
-      "first_seen": "2026-07-23T08:33:03.567262+00:00"
+      "first_seen": "2026-06-13T18:58:02.878695+00:00"
     },
     {
-      "title": "Consultancy services for Feasibility Study and Detailed Engineering Design for the Proposed Upgrading to Paved Standards of Surahi-Catholic Diocese of Malindi(Cathedral)-Naivas Road in Malindi Municipality, Including Drainage Works, Pedestrian Walkways, Greening and Street Lighting",
-      "entity": "",
-      "category": "Consultancy",
-      "county": "Kilifi",
-      "deadline": "2026-07-27",
+      "title": "ADDENDUM TO TENDER NO: PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
+      "entity": "PPRA-listed entity",
+      "category": "",
+      "county": "",
+      "deadline": "",
       "agpo": "",
-      "url": "https://tenders.go.ke/tenders/299910",
-      "source": "tenders.go.ke",
+      "url": "https://ppra.go.ke/addendum-ppraot052023-2024/",
+      "source": "ppra.go.ke",
       "summary": "",
-      "first_seen": "2026-07-23T08:33:03.565823+00:00"
+      "first_seen": "2026-06-13T18:58:02.877477+00:00"
     },
     {
-      "title": "SUPPLY AND DELIVERY OF MUKUI DAY SECONDARY SCHOOL BUS",
-      "entity": "",
+      "title": "PPRA/OT/03/2024-2025 FOR PROVISION OF CLEANING,  SANITARY AND FUMIGATION SERVICES",
+      "entity": "PPRA-listed entity",
+      "category": "Cleaning",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-cleaning-2024/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.876130+00:00"
+    },
+    {
+      "title": "TENDER No. PPRA/OT/04/2024-2025 FOR SUPPLY & DELIVERY OF LAPTOPS",
+      "entity": "PPRA-listed entity",
       "category": "Supply of Goods",
       "county": "",
-      "deadline": "2026-07-27",
+      "deadline": "",
       "agpo": "",
-      "url": "https://tenders.go.ke/tenders/300482",
-      "source": "tenders.go.ke",
+      "url": "https://ppra.go.ke/tender-laptops-2024/",
+      "source": "ppra.go.ke",
       "summary": "",
-      "first_seen": "2026-07-23T08:33:03.564419+00:00"
+      "first_seen": "2026-06-13T18:58:02.874911+00:00"
     },
     {
-      "title": "Proposed completion of 2 classrooms at Kiptilalon primary school",
-      "entity": "",
-      "category": "Security",
+      "title": "TENDER NO. PPRA/05/2024-2025 FOR  PROVISION OF MEDICAL INSURANCE COVER FOR BOARD MEMBERS AND STAFF",
+      "entity": "PPRA-listed entity",
+      "category": "Healthcare",
       "county": "",
-      "deadline": "2026-07-27",
+      "deadline": "",
       "agpo": "",
-      "url": "https://tenders.go.ke/tenders/301108",
-      "source": "tenders.go.ke",
+      "url": "https://ppra.go.ke/tender-no-ppra052024-2025-for-provision-of-medical-insurance-cover-for-board-members-and-staff/",
+      "source": "ppra.go.ke",
       "summary": "",
-      "first_seen": "2026-07-23T08:33:03.563079+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION TO COMPLETION OF 4 CLASSROOMS (TWO STOREY BUILDING) AT WUOD CHIEF RANGENYA SECONDARY SCHOOL IN KOSEWE WARD",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-07-27",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/299775",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-23T08:33:03.561640+00:00"
+      "first_seen": "2026-06-13T18:58:02.873323+00:00"
     }
   ]
 }
