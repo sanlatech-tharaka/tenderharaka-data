@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-28T14:10:00.699306+00:00",
+  "generated_at": "2026-07-28T19:26:39.322068+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "Supply & Delivery of Rice",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Machakos",
+      "deadline": "2026-07-30",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/301623",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-07-28T19:26:37.840362+00:00"
+    },
     {
       "title": "SUPPLY AND DELIVERY OF ORTHOPAEDIC IMPLANTS",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-07-24T02:47:34.751077+00:00"
-    },
-    {
-      "title": "PRE-QUALIFICATION FOR SUPPLY AND MAINTENANCE OF OFFICE COMPUTERS, PRINTERS AND EQUIPMENTS",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Kwale",
-      "deadline": "2026-07-28",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/300885",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-07-24T02:47:34.749670+00:00"
     }
   ]
 }
