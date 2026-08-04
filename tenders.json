@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-04T14:17:27.611491+00:00",
+  "generated_at": "2026-08-04T19:38:49.751704+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "SUPPLY AND DELIVERY OF INDIGENOUS TREE SEEDLINGS AND FENCING USING CHICKEN WIREMESH.",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "",
+      "deadline": "2026-08-10",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302818",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-04T19:38:48.566409+00:00"
+    },
     {
       "title": "PROPOSED CONSTRUCTION TO COMPLETE OF SIX (6)DOORS PIT LATRINE AT NTHAARA PRIMARY SCHOOL.",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-08-04T08:38:57.015948+00:00"
-    },
-    {
-      "title": "SUPPLY OF CLEANING MATERIALS AND DISINFECTANTS",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Kisumu",
-      "deadline": "2026-08-04",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302036",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-04T08:38:57.014294+00:00"
     }
   ]
 }
