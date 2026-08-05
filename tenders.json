@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-05T08:38:01.474524+00:00",
+  "generated_at": "2026-08-05T14:11:44.184946+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROPOSED CONSTRUCTION TO COMPLETION OF 2NO CLASSROOMS AND 2NO 3DOOR TOILETS AT KWA GUYO PRIMARY SCHOOL",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Lamu",
+      "deadline": "2026-08-11",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302914",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-05T14:11:42.367910+00:00"
+    },
+    {
+      "title": "PROPOSED PROVISION OF ROADSAFETY TRAINING , DRIVING SKILLS DEVELOPMENT AND ISSUANCE  OF SMART DRIVING LICENCEFOR 500 NO. BODA BODA RIDERS FROM MUKURWE-INI CONSTITUENCY",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-08-11",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302985",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-05T14:11:42.366236+00:00"
+    },
     {
       "title": "Supply and delivery of Pharmaceuticals  (A Two-Year Framework Agreement)",
       "entity": "",
@@ -697,30 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-08-04T14:17:24.396358+00:00"
-    },
-    {
-      "title": "UPGRADING TO BITUMEN STANDARD OF  LAISAMIS –  NGURUNIT – ILLAUT (B74) ROAD",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-08-05",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/298657",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-04T14:17:24.345865+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/DISP/OT/001/2025-2026 FOR DISPOSAL OF MOTOR VEHICLE",
-      "entity": "PPRA-listed entity",
-      "category": "Transport",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppradispot0012025-2026-for-disposal-of-motor-vehicle/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-29T14:51:06.940705+00:00"
     }
   ]
 }
