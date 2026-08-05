@@ -1,7 +1,103 @@
 {
-  "generated_at": "2026-08-05T02:37:58.891312+00:00",
+  "generated_at": "2026-08-05T08:38:01.474524+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "Supply and delivery of Pharmaceuticals  (A Two-Year Framework Agreement)",
+      "entity": "",
+      "category": "Healthcare",
+      "county": "Machakos",
+      "deadline": "2026-08-11",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/297053",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-05T08:37:59.080509+00:00"
+    },
+    {
+      "title": "Supply and delivery of dressings and non-pharmaceuticals. (A Two-Year Framework Agreement)",
+      "entity": "",
+      "category": "Healthcare",
+      "county": "Machakos",
+      "deadline": "2026-08-11",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/297054",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-05T08:37:59.078797+00:00"
+    },
+    {
+      "title": "Supply and delivery of laboratory chemicals, reagents and consumables. (A Two-Year Framework Agreement)",
+      "entity": "",
+      "category": "Healthcare",
+      "county": "Machakos",
+      "deadline": "2026-08-11",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/297055",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-05T08:37:59.076580+00:00"
+    },
+    {
+      "title": "Supply and delivery of specialized medical Consumables (Radiology, Oncology, Morgue, Dental, Renal, ICU, Surgical implants) (A Two-Year Framework Agreement)",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Machakos",
+      "deadline": "2026-08-11",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/297057",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-05T08:37:59.074852+00:00"
+    },
+    {
+      "title": "ANNUAL TENDERS",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Bungoma",
+      "deadline": "2026-08-11",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302642",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-05T08:37:59.073101+00:00"
+    },
+    {
+      "title": "PROVISION OF COMPREHENSIVE MEDICAL INSURANCE AND LAST EXPENSE FOR STATE AND PUBLIC SERVICE OFFICERS COVER FOR NAIROBI CITY COUNTY",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Nairobi",
+      "deadline": "2026-08-10",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302691",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-05T08:37:59.071487+00:00"
+    },
+    {
+      "title": "SUPPLY, DELIVERY, INSTALLATION, TESTING AND COMMISSIONING OF SOLAR POWER SYSTEM AT TECHNICAL UNIVERSITY OF MOMBASA ENTERPRISES LIMITED",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Mombasa",
+      "deadline": "2026-08-10",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302203",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-05T08:37:59.069836+00:00"
+    },
+    {
+      "title": "Supply and Delivery of Rice and Sugar",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "",
+      "deadline": "2026-08-10",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302762",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-05T08:37:59.068015+00:00"
+    },
     {
       "title": "Supply and delivery of assorted indigenous tree seedlings for re-afforestation of Kiptogot Forest.",
       "entity": "",
@@ -625,102 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-29T14:51:06.940705+00:00"
-    },
-    {
-      "title": "PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/leasing-tender-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.878695+00:00"
-    },
-    {
-      "title": "ADDENDUM TO TENDER NO: PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/addendum-ppraot052023-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.877477+00:00"
-    },
-    {
-      "title": "PPRA/OT/03/2024-2025 FOR PROVISION OF CLEANING,  SANITARY AND FUMIGATION SERVICES",
-      "entity": "PPRA-listed entity",
-      "category": "Cleaning",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-cleaning-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.876130+00:00"
-    },
-    {
-      "title": "TENDER No. PPRA/OT/04/2024-2025 FOR SUPPLY & DELIVERY OF LAPTOPS",
-      "entity": "PPRA-listed entity",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-laptops-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.874911+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/05/2024-2025 FOR  PROVISION OF MEDICAL INSURANCE COVER FOR BOARD MEMBERS AND STAFF",
-      "entity": "PPRA-listed entity",
-      "category": "Healthcare",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppra052024-2025-for-provision-of-medical-insurance-cover-for-board-members-and-staff/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.873323+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/RFP/006/2024–2025 FOR CONSULTANCY SERVICES FOR PROVISION OF TRAINING TO PPRA STAFF AND PERSONS  INVOLVED IN PUBLIC PROCUREMENT AND ASSET DISPOSAL SYSTEM",
-      "entity": "PPRA-listed entity",
-      "category": "ICT",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-for-consultancy-services-for-provision-of-training-to-ppra-staff-and-persons-involved-in-public-procurement-and-asset-disposal-system/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.872054+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/OT/28/2024-2025 FOR PROCUREMENT OF OFFICE PREMISES",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "Kisumu",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppraot282024-2025-for-procurement-of-office-premises/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.870904+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/RFP/006/2024-2025 – CONSULTANCY SERVICES FOR PRODUCTION OF DOCUMENTARY (FRAMEWORK CONTRACT FOR THREE YEARS)",
-      "entity": "PPRA-listed entity",
-      "category": "ICT",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-consultancy-services-for-production-of-documentary-framework-contract-for-three-years/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.869440+00:00"
     }
   ]
 }
