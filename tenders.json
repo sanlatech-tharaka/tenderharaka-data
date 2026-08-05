@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-05T14:11:44.184946+00:00",
+  "generated_at": "2026-08-05T19:37:07.573057+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "Kelji Assistant Chief's Office-Construction to completion of assistant chiefs office",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-08-06",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302998",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-05T19:37:06.241184+00:00"
+    },
+    {
+      "title": "ELDORET CENTRAL PRIMARY SCHOOL",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-08-06",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302995",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-05T19:37:06.235678+00:00"
+    },
+    {
+      "title": "CHEPLASKEI PRIMARY SCHOOL-Construction to completion of 6 door pit latrine with one chamber for persons with disabilities",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-08-06",
+      "agpo": "PWD",
+      "url": "https://tenders.go.ke/tenders/302997",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-05T19:37:06.233543+00:00"
+    },
     {
       "title": "PROPOSED CONSTRUCTION TO COMPLETION OF 2NO CLASSROOMS AND 2NO 3DOOR TOILETS AT KWA GUYO PRIMARY SCHOOL",
       "entity": "",
@@ -685,42 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-08-04T14:17:24.411620+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION TO COMPLETION A 5- ROOMED ASSISTANT CHIEF BLOCK",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-08-05",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/301566",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-04T14:17:24.401239+00:00"
-    },
-    {
-      "title": "PROPOSED STORIED CLASSROOM  BLOCK EXTENSION (SECOND FLOOR) AT MANYATTA  TECHNICAL AND VOCATIONAL COLLEGE",
-      "entity": "",
-      "category": "Security",
-      "county": "Embu",
-      "deadline": "2026-08-05",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/301593",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-04T14:17:24.398787+00:00"
-    },
-    {
-      "title": "PROPOSED COMPLETION OF COUNTY AGGREGATION AND  INDUSTRIAL PARK IN MURANG’A COUNTY",
-      "entity": "",
-      "category": "Security",
-      "county": "Murang'a",
-      "deadline": "2026-08-05",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/301847",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-04T14:17:24.396358+00:00"
     }
   ]
 }
