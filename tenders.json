@@ -1,7 +1,103 @@
 {
-  "generated_at": "2026-08-11T01:50:44.709399+00:00",
+  "generated_at": "2026-08-11T07:09:40.708407+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROVISION OF SERVICING OF SCHOOL GENERATOR, BOREHOLE AND WATER PUMP",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Machakos",
+      "deadline": "2026-08-13",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302935",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-11T07:09:39.285351+00:00"
+    },
+    {
+      "title": "SUPPLY AND DELIVERY OF STAFF AND STUDENTS COUNCIL UNIFORM",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Machakos",
+      "deadline": "2026-08-13",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302936",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-11T07:09:39.284087+00:00"
+    },
+    {
+      "title": "SUPPLY AND DELIVERY OF PETROLEUM FUEL AND LUBRICANTS",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Machakos",
+      "deadline": "2026-08-13",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302937",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-11T07:09:39.282751+00:00"
+    },
+    {
+      "title": "SUPPLY AND DELIVERY OF FURNITURE(DOUBLE DECKER/LOCKER/DESK)",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Machakos",
+      "deadline": "2026-08-13",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302938",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-11T07:09:39.281417+00:00"
+    },
+    {
+      "title": "SUPPLY AND DELIVERY OF PLUMBING MATERIALS",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Machakos",
+      "deadline": "2026-08-13",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302939",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-11T07:09:39.280042+00:00"
+    },
+    {
+      "title": "PROPOSED COMPLETION OF MULTIPURPOSE HALL AT MUBERE SECONDARY SCHOOL",
+      "entity": "",
+      "category": "Security",
+      "county": "",
+      "deadline": "2026-08-13",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302614",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-11T07:09:39.278632+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION, REPAIR AND MAINTENANCE OF ROADS  IN BOMACHOGE CHACHE, BOMACHOGE BORABU AND NYARIBARI  MASABA SUB COUNTIES",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Kisii",
+      "deadline": "2026-08-13",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302975",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-11T07:09:39.277274+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION, REPAIR AND MAINTENANCE OF ROADS  IN SOUTH MUGIRANGO AND BONCHARI SUB COUNTIES",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Kisii",
+      "deadline": "2026-08-13",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302978",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-11T07:09:39.275901+00:00"
+    },
     {
       "title": "PROPOSED CONSTRUCTION, REPAIR AND MAINTENANCE OF ROADS  IN KITUTU CHACHE NORTH, KITUTU CHACHE SOUTH AND  NYARIBARI CHACHE SUB COUNTIES.",
       "entity": "",
@@ -625,102 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-08-05T08:37:59.076580+00:00"
-    },
-    {
-      "title": "Supply and delivery of specialized medical Consumables (Radiology, Oncology, Morgue, Dental, Renal, ICU, Surgical implants) (A Two-Year Framework Agreement)",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Machakos",
-      "deadline": "2026-08-11",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/297057",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-05T08:37:59.074852+00:00"
-    },
-    {
-      "title": "ANNUAL TENDERS",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Bungoma",
-      "deadline": "2026-08-11",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302642",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-05T08:37:59.073101+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/DISP/OT/001/2025-2026 FOR DISPOSAL OF MOTOR VEHICLE",
-      "entity": "PPRA-listed entity",
-      "category": "Transport",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppradispot0012025-2026-for-disposal-of-motor-vehicle/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-29T14:51:06.940705+00:00"
-    },
-    {
-      "title": "PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/leasing-tender-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.878695+00:00"
-    },
-    {
-      "title": "ADDENDUM TO TENDER NO: PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/addendum-ppraot052023-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.877477+00:00"
-    },
-    {
-      "title": "PPRA/OT/03/2024-2025 FOR PROVISION OF CLEANING,  SANITARY AND FUMIGATION SERVICES",
-      "entity": "PPRA-listed entity",
-      "category": "Cleaning",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-cleaning-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.876130+00:00"
-    },
-    {
-      "title": "TENDER No. PPRA/OT/04/2024-2025 FOR SUPPLY & DELIVERY OF LAPTOPS",
-      "entity": "PPRA-listed entity",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-laptops-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.874911+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/05/2024-2025 FOR  PROVISION OF MEDICAL INSURANCE COVER FOR BOARD MEMBERS AND STAFF",
-      "entity": "PPRA-listed entity",
-      "category": "Healthcare",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppra052024-2025-for-provision-of-medical-insurance-cover-for-board-members-and-staff/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.873323+00:00"
     }
   ]
 }
