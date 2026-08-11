@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-10T18:59:02.795540+00:00",
+  "generated_at": "2026-08-11T01:50:44.709399+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROPOSED CONSTRUCTION, REPAIR AND MAINTENANCE OF ROADS  IN KITUTU CHACHE NORTH, KITUTU CHACHE SOUTH AND  NYARIBARI CHACHE SUB COUNTIES.",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Kisii",
+      "deadline": "2026-08-13",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302980",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-11T01:50:43.259284+00:00"
+    },
     {
       "title": "PROPOSED CONSTRUCTION, REPAIR AND MAINTENANCE OF ROADS  IN BOBASI SUB COUNTY",
       "entity": "",
@@ -351,18 +363,6 @@
       "first_seen": "2026-08-07T13:06:23.737384+00:00"
     },
     {
-      "title": "Proposed construction of 90000 ltr septic tank at Kerotet  girls Senior School",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-08-10",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302927",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-07T13:06:23.710529+00:00"
-    },
-    {
       "title": "SUPPLY AND DELIVERY OF MANUFACTURED FOOD STUFFS - TWO (2) YEAR FRAMEWORK AGREEMENT",
       "entity": "",
       "category": "Supply of Goods",
@@ -651,76 +651,76 @@
       "first_seen": "2026-08-05T08:37:59.073101+00:00"
     },
     {
-      "title": "PROVISION OF COMPREHENSIVE MEDICAL INSURANCE AND LAST EXPENSE FOR STATE AND PUBLIC SERVICE OFFICERS COVER FOR NAIROBI CITY COUNTY",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Nairobi",
-      "deadline": "2026-08-10",
+      "title": "TENDER NO. PPRA/DISP/OT/001/2025-2026 FOR DISPOSAL OF MOTOR VEHICLE",
+      "entity": "PPRA-listed entity",
+      "category": "Transport",
+      "county": "",
+      "deadline": "",
       "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302691",
-      "source": "tenders.go.ke",
+      "url": "https://ppra.go.ke/tender-no-ppradispot0012025-2026-for-disposal-of-motor-vehicle/",
+      "source": "ppra.go.ke",
       "summary": "",
-      "first_seen": "2026-08-05T08:37:59.071487+00:00"
+      "first_seen": "2026-06-29T14:51:06.940705+00:00"
     },
     {
-      "title": "SUPPLY, DELIVERY, INSTALLATION, TESTING AND COMMISSIONING OF SOLAR POWER SYSTEM AT TECHNICAL UNIVERSITY OF MOMBASA ENTERPRISES LIMITED",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Mombasa",
-      "deadline": "2026-08-10",
+      "title": "PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
+      "entity": "PPRA-listed entity",
+      "category": "",
+      "county": "",
+      "deadline": "",
       "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302203",
-      "source": "tenders.go.ke",
+      "url": "https://ppra.go.ke/leasing-tender-2024/",
+      "source": "ppra.go.ke",
       "summary": "",
-      "first_seen": "2026-08-05T08:37:59.069836+00:00"
+      "first_seen": "2026-06-13T18:58:02.878695+00:00"
     },
     {
-      "title": "Supply and Delivery of Rice and Sugar",
-      "entity": "",
+      "title": "ADDENDUM TO TENDER NO: PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
+      "entity": "PPRA-listed entity",
+      "category": "",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/addendum-ppraot052023-2024/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.877477+00:00"
+    },
+    {
+      "title": "PPRA/OT/03/2024-2025 FOR PROVISION OF CLEANING,  SANITARY AND FUMIGATION SERVICES",
+      "entity": "PPRA-listed entity",
+      "category": "Cleaning",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-cleaning-2024/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.876130+00:00"
+    },
+    {
+      "title": "TENDER No. PPRA/OT/04/2024-2025 FOR SUPPLY & DELIVERY OF LAPTOPS",
+      "entity": "PPRA-listed entity",
       "category": "Supply of Goods",
       "county": "",
-      "deadline": "2026-08-10",
+      "deadline": "",
       "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302762",
-      "source": "tenders.go.ke",
+      "url": "https://ppra.go.ke/tender-laptops-2024/",
+      "source": "ppra.go.ke",
       "summary": "",
-      "first_seen": "2026-08-05T08:37:59.068015+00:00"
+      "first_seen": "2026-06-13T18:58:02.874911+00:00"
     },
     {
-      "title": "Supply and delivery of assorted indigenous tree seedlings for re-afforestation of Kiptogot Forest.",
-      "entity": "",
-      "category": "Supply of Goods",
+      "title": "TENDER NO. PPRA/05/2024-2025 FOR  PROVISION OF MEDICAL INSURANCE COVER FOR BOARD MEMBERS AND STAFF",
+      "entity": "PPRA-listed entity",
+      "category": "Healthcare",
       "county": "",
-      "deadline": "2026-08-10",
+      "deadline": "",
       "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302241",
-      "source": "tenders.go.ke",
+      "url": "https://ppra.go.ke/tender-no-ppra052024-2025-for-provision-of-medical-insurance-cover-for-board-members-and-staff/",
+      "source": "ppra.go.ke",
       "summary": "",
-      "first_seen": "2026-08-05T02:37:57.494669+00:00"
-    },
-    {
-      "title": "SUPPLY AND DELIVERY OF INDIGENOUS TREE SEEDLINGS AND FENCING USING CHICKEN WIREMESH.",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "2026-08-10",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302818",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-04T19:38:48.566409+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION TO COMPLETE OF SIX (6)DOORS PIT LATRINE AT NTHAARA PRIMARY SCHOOL.",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-08-10",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302819",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-04T14:17:24.544675+00:00"
+      "first_seen": "2026-06-13T18:58:02.873323+00:00"
     }
   ]
 }
