@@ -1,7 +1,103 @@
 {
-  "generated_at": "2026-08-12T02:03:32.136976+00:00",
+  "generated_at": "2026-08-12T07:26:45.762468+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROPOSED COMPLETION OF A THREE-STOREY BUILDING AT KIMALA SECONDARY SCHOOL (PHASE 2)",
+      "entity": "",
+      "category": "ICT",
+      "county": "",
+      "deadline": "2026-08-14",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302678",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-12T07:26:44.394652+00:00"
+    },
+    {
+      "title": "PROPOSED PURPOSE-BUILT DEVELOPMENT OF NAROK COUNTY  GOVERNMENT HEADQUARTERS AND THE NAROK COUNTY AIRPORT TERMINAL  BUILDING ANCILLARY FACILITIES ON LEASE TO OWN FINANCING.",
+      "entity": "",
+      "category": "ICT",
+      "county": "Narok",
+      "deadline": "2026-08-14",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302709",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-12T07:26:44.392845+00:00"
+    },
+    {
+      "title": "PROPOSED RENOVATION OF 10 CLASSROOMS TO COMPLETION  AT MATHARI PRIMARY SCHOOL  IN MATHARE CONSTITUENCY",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-08-14",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303057",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-12T07:26:44.390875+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION AND EQUIPPING OF SCIENCE LABORATORY AT LOLDUGA PRIMARY",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nandi",
+      "deadline": "2026-08-14",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303155",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-12T07:26:44.389085+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION AND EQUIPPING OF ONE CLASSROOM",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nandi",
+      "deadline": "2026-08-14",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303167",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-12T07:26:44.387330+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION AND EQUIPPING OF ONE CLASSROOM",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nandi",
+      "deadline": "2026-08-14",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303168",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-12T07:26:44.385450+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION AND EQUIPPING OF ONE CLASSROOM",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nandi",
+      "deadline": "2026-08-14",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303170",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-12T07:26:44.383509+00:00"
+    },
+    {
+      "title": "PROPOSED SUPPLY AND DELIVERY OF 1NO. 46-SEATER SEMI LUXURY BUS DIESEL ENGINE FOR KATALWA SECONDARY SCHOOL",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "",
+      "deadline": "2026-08-14",
+      "agpo": "PWD",
+      "url": "https://tenders.go.ke/tenders/303173",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-12T07:26:44.380375+00:00"
+    },
     {
       "title": "PROPOSED SUPPLY AND DELIVERY OF 1NO. 46-SEATER SEMI LUXURY BUS DIESEL ENGINE FOR WINZYEEI SECONDARY SCHOOL",
       "entity": "",
@@ -625,78 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.874911+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/05/2024-2025 FOR  PROVISION OF MEDICAL INSURANCE COVER FOR BOARD MEMBERS AND STAFF",
-      "entity": "PPRA-listed entity",
-      "category": "Healthcare",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppra052024-2025-for-provision-of-medical-insurance-cover-for-board-members-and-staff/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.873323+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/RFP/006/2024–2025 FOR CONSULTANCY SERVICES FOR PROVISION OF TRAINING TO PPRA STAFF AND PERSONS  INVOLVED IN PUBLIC PROCUREMENT AND ASSET DISPOSAL SYSTEM",
-      "entity": "PPRA-listed entity",
-      "category": "ICT",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-for-consultancy-services-for-provision-of-training-to-ppra-staff-and-persons-involved-in-public-procurement-and-asset-disposal-system/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.872054+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/OT/28/2024-2025 FOR PROCUREMENT OF OFFICE PREMISES",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "Kisumu",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppraot282024-2025-for-procurement-of-office-premises/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.870904+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/RFP/006/2024-2025 – CONSULTANCY SERVICES FOR PRODUCTION OF DOCUMENTARY (FRAMEWORK CONTRACT FOR THREE YEARS)",
-      "entity": "PPRA-listed entity",
-      "category": "ICT",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-consultancy-services-for-production-of-documentary-framework-contract-for-three-years/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.869440+00:00"
-    },
-    {
-      "title": "ADDENDUM I – CONSULTANCY SERVICE FOR PRODUCTION OF DOCUMENTARY: EXTENSION OF CLOSING DATE",
-      "entity": "PPRA-listed entity",
-      "category": "Consultancy",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/addendum-i-consultancy-service-for-production-of-documentary-extension-of-closing-date/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.868127+00:00"
-    },
-    {
-      "title": "TENDER No. PPRA/OT/45/2024-2025 FOR SUPPLY & DELIVERY OF LAPTOPS",
-      "entity": "PPRA-listed entity",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppraot452024-2025-for-supply-delivery-of-laptops/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.861210+00:00"
     }
   ]
 }
