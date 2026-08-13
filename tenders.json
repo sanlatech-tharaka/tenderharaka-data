@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-13T07:36:18.731697+00:00",
+  "generated_at": "2026-08-13T13:14:23.372263+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "LEASING OF STAFF CAFETERIA",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-08-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302910",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-13T13:14:17.380998+00:00"
+    },
+    {
+      "title": "PROVISION OF GENERAL INSURANCE COVER",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-08-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303052",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-13T13:14:17.378414+00:00"
+    },
     {
       "title": "PROVISION OF SECURITY SERVICES",
       "entity": "",
@@ -697,30 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-08-11T07:09:39.285351+00:00"
-    },
-    {
-      "title": "SUPPLY AND DELIVERY OF STAFF AND STUDENTS COUNCIL UNIFORM",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Machakos",
-      "deadline": "2026-08-13",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302936",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-11T07:09:39.284087+00:00"
-    },
-    {
-      "title": "SUPPLY AND DELIVERY OF PETROLEUM FUEL AND LUBRICANTS",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Machakos",
-      "deadline": "2026-08-13",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302937",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-11T07:09:39.282751+00:00"
     }
   ]
 }
