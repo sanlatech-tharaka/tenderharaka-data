@@ -1,7 +1,91 @@
 {
-  "generated_at": "2026-08-14T02:03:22.335352+00:00",
+  "generated_at": "2026-08-14T07:26:02.437907+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROVISION OF GROUP MEDICAL INSURANCE COVER FOR STAFF AND BOARD MEMBERS",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-08-18",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303049",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-14T07:26:00.666623+00:00"
+    },
+    {
+      "title": "PROVISION OF SERVICES",
+      "entity": "",
+      "category": "Security",
+      "county": "",
+      "deadline": "2026-08-18",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302949",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-14T07:26:00.665268+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION TO COMPLETION OF 1 CLASSROOM AND SUPPLY OF 25 DESKS",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-08-18",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303107",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-14T07:26:00.663851+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION OF 4 NO DOOR BOYS PIT LATRINE AND URINAL WITH ONE CHAMBER FOR PERSONS WITH DISABILITIES",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-08-18",
+      "agpo": "PWD",
+      "url": "https://tenders.go.ke/tenders/303109",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-14T07:26:00.662551+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION TO COMPLETION OF 1 CLASSROOM AND SUPPLY OF 25 DESKS",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-08-18",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303114",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-14T07:26:00.661045+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION OF 4 NO DOOR BOYS PIT LATRINE AND URINAL WITH ONE CHAMBER FOR PERSONS WITH DISABILITIES",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-08-18",
+      "agpo": "PWD",
+      "url": "https://tenders.go.ke/tenders/303117",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-14T07:26:00.659676+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION OF BOUNDARY WALL AT ST. ANGELA  MUMIAS SECONDARY / VOCATIONAL SCHOOL FOR DEAF GIRLS",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Kakamega",
+      "deadline": "2026-08-18",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303388",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-14T07:26:00.658303+00:00"
+    },
     {
       "title": "Supply and delivery of dry firewood",
       "entity": "",
@@ -637,78 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.874911+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/05/2024-2025 FOR  PROVISION OF MEDICAL INSURANCE COVER FOR BOARD MEMBERS AND STAFF",
-      "entity": "PPRA-listed entity",
-      "category": "Healthcare",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppra052024-2025-for-provision-of-medical-insurance-cover-for-board-members-and-staff/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.873323+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/RFP/006/2024–2025 FOR CONSULTANCY SERVICES FOR PROVISION OF TRAINING TO PPRA STAFF AND PERSONS  INVOLVED IN PUBLIC PROCUREMENT AND ASSET DISPOSAL SYSTEM",
-      "entity": "PPRA-listed entity",
-      "category": "ICT",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-for-consultancy-services-for-provision-of-training-to-ppra-staff-and-persons-involved-in-public-procurement-and-asset-disposal-system/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.872054+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/OT/28/2024-2025 FOR PROCUREMENT OF OFFICE PREMISES",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "Kisumu",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppraot282024-2025-for-procurement-of-office-premises/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.870904+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/RFP/006/2024-2025 – CONSULTANCY SERVICES FOR PRODUCTION OF DOCUMENTARY (FRAMEWORK CONTRACT FOR THREE YEARS)",
-      "entity": "PPRA-listed entity",
-      "category": "ICT",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-consultancy-services-for-production-of-documentary-framework-contract-for-three-years/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.869440+00:00"
-    },
-    {
-      "title": "ADDENDUM I – CONSULTANCY SERVICE FOR PRODUCTION OF DOCUMENTARY: EXTENSION OF CLOSING DATE",
-      "entity": "PPRA-listed entity",
-      "category": "Consultancy",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/addendum-i-consultancy-service-for-production-of-documentary-extension-of-closing-date/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.868127+00:00"
-    },
-    {
-      "title": "TENDER No. PPRA/OT/45/2024-2025 FOR SUPPLY & DELIVERY OF LAPTOPS",
-      "entity": "PPRA-listed entity",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppraot452024-2025-for-supply-delivery-of-laptops/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.861210+00:00"
     }
   ]
 }
