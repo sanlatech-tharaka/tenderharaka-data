@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-16T18:30:54.191865+00:00",
+  "generated_at": "2026-08-17T01:19:56.166146+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "Supply and delivery of green groceries and poultry products",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Bomet",
+      "deadline": "2026-08-18",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303098",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-17T01:19:54.814763+00:00"
+    },
+    {
+      "title": "Supply and delivery of dry food, perishables, kitchen cutleries and equipment",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Bomet",
+      "deadline": "2026-08-18",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303099",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-17T01:19:54.813068+00:00"
+    },
     {
       "title": "Supply and delivery of dairy products",
       "entity": "",
@@ -697,18 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.868127+00:00"
-    },
-    {
-      "title": "TENDER No. PPRA/OT/45/2024-2025 FOR SUPPLY & DELIVERY OF LAPTOPS",
-      "entity": "PPRA-listed entity",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppraot452024-2025-for-supply-delivery-of-laptops/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.861210+00:00"
     }
   ]
 }
