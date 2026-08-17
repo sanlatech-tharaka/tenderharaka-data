@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-17T12:46:03.292202+00:00",
+  "generated_at": "2026-08-17T18:41:16.642233+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "SOLAR SYSTEM INSTALLATION",
+      "entity": "",
+      "category": "ICT",
+      "county": "",
+      "deadline": "2026-08-20",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302703",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-17T18:41:10.554853+00:00"
+    },
     {
       "title": "SUPPLY OF WHITE BOARDS AND WHITE BOARD PENS",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-08-13T07:36:17.044254+00:00"
-    },
-    {
-      "title": "PROPOSED CABRO INSTALLATION WORKS AT NG-CDF KAPSERET",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-08-17",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/303059",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-13T07:36:17.043017+00:00"
     }
   ]
 }
