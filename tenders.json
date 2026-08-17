@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-08-17T06:57:33.216703+00:00",
+  "generated_at": "2026-08-17T12:46:03.292202+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "SUPPLY OF WHITE BOARDS AND WHITE BOARD PENS",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-08-20",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302704",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-17T12:46:01.517456+00:00"
+    },
+    {
+      "title": "SUPPLY OF FUEL PRODUCTS",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-08-20",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302705",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-17T12:46:01.516115+00:00"
+    },
+    {
+      "title": "SECURITY SERVICES/FIRM",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-08-20",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302707",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-17T12:46:01.514598+00:00"
+    },
+    {
+      "title": "MAINTENANCE OF BAKERY EQUIPMENTS",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-08-20",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302708",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-17T12:46:01.513215+00:00"
+    },
     {
       "title": "PROPOSED CONSTRUCTION OF A DORMITORY COMPRISING WASHROOMS,BATHROOMS FROM SUB-STRUCTURE AND GROUND FLOOR COMPLETE WITH A FOUNDATION ABLE TO SUSTAIN 2NO ADDITIONAL FLOORS AT THIKA ROAD PRIMARY AND J.S.S",
       "entity": "",
@@ -673,54 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-08-13T07:36:17.043017+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION OF 4 NO DOOR BOYS PIT LATRINE AND URINAL WITH ONE CHAMBER FOR PERSONS WITH DISABILITIES",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-08-17",
-      "agpo": "PWD",
-      "url": "https://tenders.go.ke/tenders/303094",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-13T07:36:17.041679+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION OF 4 NO DOOR BOYS PIT LATRINE AND URINAL WITH ONE CHAMBER FOR PERSONS WITH DISABILITIES",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-08-17",
-      "agpo": "PWD",
-      "url": "https://tenders.go.ke/tenders/303095",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-13T07:36:17.040158+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION OF 4 NO DOOR GIRLS PIT LATRINE WITH ONE CHAMBER FOR PERSONS WITH DISABILITIES",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-08-17",
-      "agpo": "PWD",
-      "url": "https://tenders.go.ke/tenders/303097",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-13T07:36:17.038919+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION TO COMPLETION OF 1 CLASSROOM AND SUPPLY OF 25 DESKS",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-08-17",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/303100",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-13T07:36:17.037631+00:00"
     }
   ]
 }
