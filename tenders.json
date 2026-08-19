@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-08-19T06:45:51.721422+00:00",
+  "generated_at": "2026-08-19T12:49:49.824846+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "Tender for Boiler (Steam and Hot Water  Generation) and Incenerator Installation",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-08-21",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302243",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-19T12:49:48.285768+00:00"
+    },
+    {
+      "title": "Tender for Water Proofing",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-08-21",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302374",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-19T12:49:48.283687+00:00"
+    },
+    {
+      "title": "Prequalification/Registration of Suppliers for Supply and Delivery of Goods, Provision of Services and Works",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Machakos",
+      "deadline": "2026-08-20",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302854",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-19T12:49:48.281652+00:00"
+    },
+    {
+      "title": "REGISTRATION OF SUPPLIES FOR GOODS, WORKS AND SERVICE FOR THE FINANCIAL YEARS",
+      "entity": "",
+      "category": "ICT",
+      "county": "",
+      "deadline": "2026-08-20",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303131",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-19T12:49:48.279889+00:00"
+    },
     {
       "title": "PROPOSED CONSTRUCTION OF 1 NO CLASSSROOM AT EMMABWI SECONDARY SCHOOL.",
       "entity": "",
@@ -673,42 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.870904+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/RFP/006/2024-2025 – CONSULTANCY SERVICES FOR PRODUCTION OF DOCUMENTARY (FRAMEWORK CONTRACT FOR THREE YEARS)",
-      "entity": "PPRA-listed entity",
-      "category": "ICT",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-consultancy-services-for-production-of-documentary-framework-contract-for-three-years/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.869440+00:00"
-    },
-    {
-      "title": "ADDENDUM I – CONSULTANCY SERVICE FOR PRODUCTION OF DOCUMENTARY: EXTENSION OF CLOSING DATE",
-      "entity": "PPRA-listed entity",
-      "category": "Consultancy",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/addendum-i-consultancy-service-for-production-of-documentary-extension-of-closing-date/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.868127+00:00"
-    },
-    {
-      "title": "TENDER No. PPRA/OT/45/2024-2025 FOR SUPPLY & DELIVERY OF LAPTOPS",
-      "entity": "PPRA-listed entity",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppraot452024-2025-for-supply-delivery-of-laptops/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.861210+00:00"
     }
   ]
 }
