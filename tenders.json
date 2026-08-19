@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-19T12:49:49.824846+00:00",
+  "generated_at": "2026-08-19T18:37:07.433290+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "Tender for LPG, Compressed Air System, Vacuum System, Kitchen & Laundry Equipment",
+      "entity": "",
+      "category": "ICT",
+      "county": "Nairobi",
+      "deadline": "2026-08-21",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/302242",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-19T18:37:06.289284+00:00"
+    },
     {
       "title": "Tender for Boiler (Steam and Hot Water  Generation) and Incenerator Installation",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.872054+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/OT/28/2024-2025 FOR PROCUREMENT OF OFFICE PREMISES",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "Kisumu",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppraot282024-2025-for-procurement-of-office-premises/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.870904+00:00"
     }
   ]
 }
