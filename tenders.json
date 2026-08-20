@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-08-20T06:47:50.743395+00:00",
+  "generated_at": "2026-08-20T12:51:45.887623+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PREQUALIFICATION FOR THE SUPPLY AND  DELIVERY OF LABORATORY EQUIPMENT,  REAGENTS AND GLASSWARE",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Marsabit",
+      "deadline": "2026-08-25",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303195",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-20T12:51:43.737200+00:00"
+    },
+    {
+      "title": "EXPRESSION OF INTEREST (EOI) FOR PREQUALIFICATION FOR THE PROVISION OF RESEARCH & SURVEY BASED CONSULTANCY SERVICE.",
+      "entity": "",
+      "category": "Consultancy",
+      "county": "Marsabit",
+      "deadline": "2026-08-25",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303198",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-20T12:51:43.735385+00:00"
+    },
+    {
+      "title": "EXPRESSION OF INTEREST (EOI) FOR PREQUALIFICATION FOR THE PROVISION OF  ENVIRONMENTAL IMPACT AND SOCIAL  ASSESSMENT CONSULTANCY SERVICES",
+      "entity": "",
+      "category": "Consultancy",
+      "county": "Marsabit",
+      "deadline": "2026-08-25",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303199",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-20T12:51:43.733718+00:00"
+    },
+    {
+      "title": "EXPRESSION OF INTEREST (EOI) FOR PREQUALIFICATION FOR THE PROVISION OF  ENGINEERING CONSULTANCY SERVICES",
+      "entity": "",
+      "category": "Consultancy",
+      "county": "Marsabit",
+      "deadline": "2026-08-25",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303200",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-20T12:51:43.732033+00:00"
+    },
+    {
+      "title": "EXPRESSION OF INTEREST (EOI) FOR PREQUALIFICATION FOR THE PROVISION OF  STRATEGIC PLAN PREPARATION  CONSULTANCY SERVICES",
+      "entity": "",
+      "category": "Consultancy",
+      "county": "Marsabit",
+      "deadline": "2026-08-25",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303201",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-20T12:51:43.730322+00:00"
+    },
     {
       "title": "EXPRESSION OF INTEREST (EOI) FOR PREQUALIFICATION FOR THE PROVISION OF  SPECIALIZED TRAINING CONSULTANCY  SERVICES",
       "entity": "",
@@ -661,66 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-08-18T12:48:44.753841+00:00"
-    },
-    {
-      "title": "SUPPLY OF EGGS",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-08-20",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302668",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-18T12:48:44.752237+00:00"
-    },
-    {
-      "title": "SUPPLY OF VEGETABLES (Sukuma wiki/cabbage)",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-08-20",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302669",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-18T12:48:44.750598+00:00"
-    },
-    {
-      "title": "SUPPLY OF DRY FIREWOOD (split as per specification/per)",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-08-20",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302670",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-18T12:48:44.748834+00:00"
-    },
-    {
-      "title": "SUPPLY COMPUTER ACCESSORIES (Copy printer master, ink & print cartridges/toners) and OFFICE MACHINES",
-      "entity": "",
-      "category": "ICT",
-      "county": "",
-      "deadline": "2026-08-20",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302672",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-18T12:48:44.746837+00:00"
-    },
-    {
-      "title": "REPAIR AND SERVICE OF COMPUTERS, COPY PRINTERS, PHOTOCOPIER AND PRINTERS.",
-      "entity": "",
-      "category": "ICT",
-      "county": "",
-      "deadline": "2026-08-20",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302673",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-18T12:48:44.745033+00:00"
     }
   ]
 }
