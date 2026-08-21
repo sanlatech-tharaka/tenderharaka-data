@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-20T18:40:25.367248+00:00",
+  "generated_at": "2026-08-21T01:21:56.157599+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PREQUALIFICATION FOR THE SUPPLY AND  DELIVERY OF OFFICE EQUIPMENT, COMPUTERS,  LAPTOPS, PRINTERS, PHOTOCOPIERS AND RELATED  ITEMS",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Marsabit",
+      "deadline": "2026-08-25",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303179",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-21T01:21:54.427580+00:00"
+    },
+    {
+      "title": "PREQUALIFICATION FOR THE SUPPLY AND  DELIVERY OF OFFICE FURNITURE, OFFICE  EQUIPMENT, FURNISHINGS AND FITTINGS",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Marsabit",
+      "deadline": "2026-08-25",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303180",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-21T01:21:54.425897+00:00"
+    },
+    {
+      "title": "PREQUALIFICATION FOR THE SUPPLY AND  DELIVERY OF GENERAL MEDICAL EQUIPMENT AND  SURGICAL INSTRUMENTS",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Marsabit",
+      "deadline": "2026-08-25",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303181",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-21T01:21:54.424153+00:00"
+    },
     {
       "title": "PREQUALIFICATION FOR THE SUPPLY AND  DELIVERY OF X RAY MATERIALS AND  CONSUMABLES",
       "entity": "",
@@ -685,42 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-08-20T01:18:07.036792+00:00"
-    },
-    {
-      "title": "TENDER FOR GROUP MEDICAL – INPATIENT AND OUTPATIENT INSURANCE COVER FOR ELIGIBLE BOARD MEMBERS, CHIEF EXECUTIVE OFFICE AND KNEC STAFF ON A ONE YEAR CONTRACT (RE-NEWABLE).",
-      "entity": "",
-      "category": "Healthcare",
-      "county": "",
-      "deadline": "2026-08-21",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/303332",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-20T01:18:07.034566+00:00"
-    },
-    {
-      "title": "TENDER FOR SUPPLY, DELIVERY AND INSTALLATION OF EMPTY 20FT DRY CONTAINERS FOR STORAGE OF EXAMINATION MATERIALS AND RELATED REPAIR SERVICES",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "2026-08-21",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/303334",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-20T01:18:07.032714+00:00"
-    },
-    {
-      "title": "Tender for LPG, Compressed Air System, Vacuum System, Kitchen & Laundry Equipment",
-      "entity": "",
-      "category": "ICT",
-      "county": "Nairobi",
-      "deadline": "2026-08-21",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/302242",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-19T18:37:06.289284+00:00"
     }
   ]
 }
