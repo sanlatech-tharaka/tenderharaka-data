@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-24T07:00:43.124690+00:00",
+  "generated_at": "2026-08-24T12:52:45.806605+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROVISION OF ALTERNATIVE INVESTMENT SERVICES",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nairobi",
+      "deadline": "2026-08-25",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303339",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-24T12:52:43.836068+00:00"
+    },
     {
       "title": "PROPOSED CABRO PAVING AND ASSOCIATED CIVIL WORKS AT GIATHUGU PRIMARY SCHOOL",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.869440+00:00"
-    },
-    {
-      "title": "ADDENDUM I – CONSULTANCY SERVICE FOR PRODUCTION OF DOCUMENTARY: EXTENSION OF CLOSING DATE",
-      "entity": "PPRA-listed entity",
-      "category": "Consultancy",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/addendum-i-consultancy-service-for-production-of-documentary-extension-of-closing-date/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.868127+00:00"
     }
   ]
 }
