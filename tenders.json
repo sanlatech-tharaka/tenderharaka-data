@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T18:41:27.039601+00:00",
+  "generated_at": "2026-08-25T01:19:43.684004+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
     {
@@ -603,18 +603,6 @@
       "first_seen": "2026-08-20T01:18:07.085092+00:00"
     },
     {
-      "title": "TENDER FOR PROVISION OF COMPREHENSIVE MAINTENANCE SERVICE OF BOREHOLE PUMPS, WATER BOOSTER PUMPS AND ASSOCIATED INFRASTRUCTURE AT CENTRAL BANK OF KENYA, HEAD OFFICE, EXTELCOMS HOUSE, CBK-IMS, MUTHAIGA RESIDENCE, MOMBASA AND KISUMU BRANCHES FOR A PERIOD OF THREE YEARS.",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-08-24",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/303533",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-20T01:18:07.082623+00:00"
-    },
-    {
       "title": "TENDER NO. PPRA/DISP/OT/001/2025-2026 FOR DISPOSAL OF MOTOR VEHICLE",
       "entity": "PPRA-listed entity",
       "category": "Transport",
@@ -721,6 +709,18 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.869440+00:00"
+    },
+    {
+      "title": "ADDENDUM I – CONSULTANCY SERVICE FOR PRODUCTION OF DOCUMENTARY: EXTENSION OF CLOSING DATE",
+      "entity": "PPRA-listed entity",
+      "category": "Consultancy",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/addendum-i-consultancy-service-for-production-of-documentary-extension-of-closing-date/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.868127+00:00"
     }
   ]
 }
