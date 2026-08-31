@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-31T12:59:01.168442+00:00",
+  "generated_at": "2026-08-31T22:35:58.978185+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROVISION OF INSURANCE SERVICES FOR THE COUNTY GOVERNMENT VEHICLES AND MOTORCYCLES FOR A PERIOD ENDING SEPTEMBER 2027",
+      "entity": "",
+      "category": "Transport",
+      "county": "Nyeri",
+      "deadline": "2026-09-03",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304242",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-31T22:35:57.133274+00:00"
+    },
+    {
+      "title": "INSTALLATION OF CULVERTS AND DRAINAGE WORKS IN KALIMONI WARD, KAHAWA SUKARI WARD, KAHAWA WENDANI WARD, KARAI WARD, NDARUGU WARD, RIABAI WARD, MWIHOKO WARD, UTHIRU WARD, NACHU WARD, THIKA TOWNSHIP WARD, HOSPITAL WARD AND IKINU WARD",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Kiambu",
+      "deadline": "2026-09-03",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304285",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-31T22:35:57.131956+00:00"
+    },
     {
       "title": "SUPPLY OF ECDE FOODSTUFF",
       "entity": "",
@@ -697,30 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-08-28T10:07:03.352967+00:00"
-    },
-    {
-      "title": "Proposed Construction to Completion of 2No. Classrooms at Kapkanai Primary School",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-08-31",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304130",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-28T10:07:03.351106+00:00"
-    },
-    {
-      "title": "TENDER FOR SUPPLY, INSTALLATION, TESTING AND COMMISSIONING OF PRECISION COOLING AND AIR CONDITIONING EQUIPMENT FOR HEAD OFFICE DATA CENTRE AND CENTRAL BANK OF KENYA – INSTITUTE OF MONETARY STUDIES SERVER ROOM",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Nairobi",
-      "deadline": "2026-08-31",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/303536",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-28T10:07:03.348871+00:00"
     }
   ]
 }
