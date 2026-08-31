@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-30T20:42:36.975011+00:00",
+  "generated_at": "2026-08-31T04:18:27.075086+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "INSTALLATION OF LOCAL AREA NETWORK",
+      "entity": "",
+      "category": "ICT",
+      "county": "",
+      "deadline": "2026-09-02",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303741",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-08-31T04:18:25.368506+00:00"
+    },
     {
       "title": "INSTALLATION OF LOCAL AREA NETWORK",
       "entity": "",
