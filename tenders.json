@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-01T11:16:07.881844+00:00",
+  "generated_at": "2026-09-01T16:13:24.224768+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROPOSED CONSTRUCTION OF ONE STOREY BUILDING BLOCK COMPRISING OF 4CLASSROOMS, A STAFFROOM,GENTS AND LADIES WASHROOMS ON THE GROUND FLOOR AND ADMINISTRATIVE OFFICES, A HALL WITH A COLLAPSIBLE WALL AND 2 CLASSROOMS IN FIRST FLOOR, AT KALYET SECONDARY SCHOOL, FUNDED BY NG CDF KIPKELION WEST, P.O BOX 150-20202, KIPKELION, KERICHO COUNTY",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Kericho",
+      "deadline": "2026-09-03",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304377",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-01T16:13:22.844217+00:00"
+    },
     {
       "title": "WASO RONGAI WATER REPAIRS AND DISTRUBUTION",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.877477+00:00"
-    },
-    {
-      "title": "PPRA/OT/03/2024-2025 FOR PROVISION OF CLEANING,  SANITARY AND FUMIGATION SERVICES",
-      "entity": "PPRA-listed entity",
-      "category": "Cleaning",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-cleaning-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.876130+00:00"
     }
   ]
 }
