@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-01T20:42:16.801327+00:00",
+  "generated_at": "2026-09-02T03:25:17.059884+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "CONSTRUCTION TO COMPLETION OF DEPUTY COUNTY COMMISSIONER'S RESIDENCE",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-09-04",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304474",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-02T03:25:15.341218+00:00"
+    },
+    {
+      "title": "REQUEST FOR PROPOSAL FOR CONSULTANCY SERVICES TO UNDERTAKE A COMPREHENSIVE ACTUARIAL AND RISK ASSESSMENT OF THE UNIVERSITY STAFF MEDICAL SCHEME",
+      "entity": "",
+      "category": "Consultancy",
+      "county": "",
+      "deadline": "2026-09-03",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303075",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-02T03:25:15.339824+00:00"
+    },
+    {
+      "title": "Proposed Construction to Completion of a Multi-purpose Hall at Moi High School",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nakuru",
+      "deadline": "2026-09-03",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304425",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-02T03:25:15.338400+00:00"
+    },
     {
       "title": "PROPOSED CONSTRUCTION OF ONE STOREY BUILDING BLOCK COMPRISING OF 4CLASSROOMS, A STAFFROOM,GENTS AND LADIES WASHROOMS ON THE GROUND FLOOR AND ADMINISTRATIVE OFFICES, A HALL WITH A COLLAPSIBLE WALL AND 2 CLASSROOMS IN FIRST FLOOR, AT KALYET SECONDARY SCHOOL, FUNDED BY NG CDF KIPKELION WEST, P.O BOX 150-20202, KIPKELION, KERICHO COUNTY",
       "entity": "",
@@ -579,114 +615,6 @@
       "first_seen": "2026-08-28T10:07:03.391762+00:00"
     },
     {
-      "title": "REQUEST FOR EXPRESSIONS OF INTEREST (REOI) FOR CONSULTING SERVICES –FOR DEVELOPMENT OF 5-YEAR STRATEGIC PLANS AS WELL AS TARGETED BUSINESS PLANS FOR THE SELECTED (IDENTIFIED) O&M OPERATORS FOR SUSTAINABILITY OF WATER SERVICE PROVISION",
-      "entity": "",
-      "category": "Consultancy",
-      "county": "",
-      "deadline": "2026-09-01",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/303935",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-28T10:07:03.388079+00:00"
-    },
-    {
-      "title": "SUPPLY AND DELIVERY OF BALLOT PAPERS, TACTILE FOLDERS, REGISTER OF VOTERS AND STATUTORY  ELECTION RESULT DECLARATION FORMS",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Nairobi",
-      "deadline": "2026-09-01",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/303287",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-28T10:07:03.386011+00:00"
-    },
-    {
-      "title": "SUPPLY, DELIVERY, INSTALLATION, TESTING,  COMMISSIONING, SUPPORT AND MAINTENANCE OF THE  INTEGRATED ELECTIONS MANAGEMENT SYSTEM  (IEMS), HARDWARE EQUIPMENT AND ACCESSORIES",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Nairobi",
-      "deadline": "2026-09-01",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/303288",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-28T10:07:03.384192+00:00"
-    },
-    {
-      "title": "THE PROPOSED VERTICAL DORMITORY EXTENTION AT ST. ANGELAS GIRLS HIGH SCHOOL IN KIAMBAA CONSTITUENCY-KIAMBU COUNTY-PHASE III.",
-      "entity": "",
-      "category": "Security",
-      "county": "Kiambu",
-      "deadline": "2026-09-01",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/303795",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-28T10:07:03.382377+00:00"
-    },
-    {
-      "title": "Proposed construction and completion of 5 roomed administration block",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-09-01",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/303814",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-28T10:07:03.379835+00:00"
-    },
-    {
-      "title": "PROVISION OF SECURITY SERVICES AT THE WEBUYE COUNTY HOSPITAL",
-      "entity": "",
-      "category": "Healthcare",
-      "county": "Bungoma",
-      "deadline": "2026-09-01",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304074",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-28T10:07:03.378222+00:00"
-    },
-    {
-      "title": "SUPPLY AND DELIVERY OF 3 BRIDGERSTONE  225/95R 16 DUELER A/T 697(TYRES) FOR TOYOTA  LANDCRUISER GKC 861A AT NAIVASHA NG-CDF",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "2026-09-01",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304154",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-28T10:07:03.376236+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION TO COMPLETION OF 4 OFFICES AND  A STAFFROOM ON A STOREYED BUILDING AT KINAMBA PRIMARY SCHOOL",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-09-01",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304156",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-28T10:07:03.374663+00:00"
-    },
-    {
-      "title": "REQUEST FOR EXPRESSIONS OF INTEREST Consultancy Firm Services for the Design and Supervision of Water Hydrogeology and WASH Infrastructure in 12 ASAL Counties in Kenya",
-      "entity": "",
-      "category": "Consultancy",
-      "county": "Nairobi",
-      "deadline": "2026-09-01",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/303294",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-28T10:07:03.371898+00:00"
-    },
-    {
       "title": "TENDER NO. PPRA/DISP/OT/001/2025-2026 FOR DISPOSAL OF MOTOR VEHICLE",
       "entity": "PPRA-listed entity",
       "category": "Transport",
@@ -721,6 +649,78 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.877477+00:00"
+    },
+    {
+      "title": "PPRA/OT/03/2024-2025 FOR PROVISION OF CLEANING,  SANITARY AND FUMIGATION SERVICES",
+      "entity": "PPRA-listed entity",
+      "category": "Cleaning",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-cleaning-2024/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.876130+00:00"
+    },
+    {
+      "title": "TENDER No. PPRA/OT/04/2024-2025 FOR SUPPLY & DELIVERY OF LAPTOPS",
+      "entity": "PPRA-listed entity",
+      "category": "Supply of Goods",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-laptops-2024/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.874911+00:00"
+    },
+    {
+      "title": "TENDER NO. PPRA/05/2024-2025 FOR  PROVISION OF MEDICAL INSURANCE COVER FOR BOARD MEMBERS AND STAFF",
+      "entity": "PPRA-listed entity",
+      "category": "Healthcare",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-no-ppra052024-2025-for-provision-of-medical-insurance-cover-for-board-members-and-staff/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.873323+00:00"
+    },
+    {
+      "title": "TENDER NO. PPRA/RFP/006/2024–2025 FOR CONSULTANCY SERVICES FOR PROVISION OF TRAINING TO PPRA STAFF AND PERSONS  INVOLVED IN PUBLIC PROCUREMENT AND ASSET DISPOSAL SYSTEM",
+      "entity": "PPRA-listed entity",
+      "category": "ICT",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-for-consultancy-services-for-provision-of-training-to-ppra-staff-and-persons-involved-in-public-procurement-and-asset-disposal-system/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.872054+00:00"
+    },
+    {
+      "title": "TENDER NO. PPRA/OT/28/2024-2025 FOR PROCUREMENT OF OFFICE PREMISES",
+      "entity": "PPRA-listed entity",
+      "category": "",
+      "county": "Kisumu",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-no-ppraot282024-2025-for-procurement-of-office-premises/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.870904+00:00"
+    },
+    {
+      "title": "TENDER NO. PPRA/RFP/006/2024-2025 – CONSULTANCY SERVICES FOR PRODUCTION OF DOCUMENTARY (FRAMEWORK CONTRACT FOR THREE YEARS)",
+      "entity": "PPRA-listed entity",
+      "category": "ICT",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-consultancy-services-for-production-of-documentary-framework-contract-for-three-years/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.869440+00:00"
     }
   ]
 }
