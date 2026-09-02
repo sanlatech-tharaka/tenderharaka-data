@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-02T16:08:52.068449+00:00",
+  "generated_at": "2026-09-02T20:39:59.386406+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "Supply and Delivery of Games Uniforms, Sportswear and other Related Equipment",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Bungoma",
+      "deadline": "2026-09-04",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304099",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-02T20:39:58.129915+00:00"
+    },
     {
       "title": "Supply and Delivery of Hospitality Equipment i.e. Cutlery, Cookery and Kitchen Equipment",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-08-31T12:58:58.792536+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION TO COMPLETION OF 2 NO. CLASSROOMS AT KOCHOLIA PRIMARY SCHOOL",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-09-02",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304258",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-31T12:58:58.785405+00:00"
     }
   ]
 }
