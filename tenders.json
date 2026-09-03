@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-03T15:58:16.751763+00:00",
+  "generated_at": "2026-09-03T20:38:57.795939+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "Provision for Training, Seminars & Workshop Services",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Bungoma",
+      "deadline": "2026-09-04",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304033",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-03T20:38:55.868663+00:00"
+    },
     {
       "title": "Provision for Asset Tagging& Labelling Services",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-09-01T11:16:05.936271+00:00"
-    },
-    {
-      "title": "PROVISION OF INSURANCE SERVICES FOR THE COUNTY GOVERNMENT VEHICLES AND MOTORCYCLES FOR A PERIOD ENDING SEPTEMBER 2027",
-      "entity": "",
-      "category": "Transport",
-      "county": "Nyeri",
-      "deadline": "2026-09-03",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304242",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-08-31T22:35:57.133274+00:00"
     }
   ]
 }
