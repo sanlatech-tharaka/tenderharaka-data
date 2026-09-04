@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-04T10:49:11.016769+00:00",
+  "generated_at": "2026-09-04T15:55:47.572522+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "Design, development, integrations maintenance and support of RMNCAH modules (Ante natal Care (ANC), delivery, Post natal Care (PNC), Family Planning, Immunization (FP), Adolescents health, Basic Emergency Obstetric and New Born Crae (BEmONC) and Comprehensive Emergency Obstetricand New Born Care (CEmONC), maternal and perinatal death surveillance and response (MPDSR) in the existing Taifa Care systems",
+      "entity": "",
+      "category": "ICT",
+      "county": "Nairobi",
+      "deadline": "2026-09-09",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304327",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-04T15:55:45.580540+00:00"
+    },
     {
       "title": "E.O.I for the consortium of Consultancy Services for the Provision of Architectural Services, Quantity Surveying Services, Civil/Structural Engineering Services, Mechanical Engineering (Building Services) and Electrical Engineering services",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-09-03T10:50:31.083861+00:00"
-    },
-    {
-      "title": "Supply and Delivery of Food Provision, Mineral Water, Soft Drinks and Other Packaged Drinks",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Bungoma",
-      "deadline": "2026-09-04",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304082",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-03T10:50:31.082566+00:00"
     }
   ]
 }
