@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-07T17:27:22.220229+00:00",
+  "generated_at": "2026-09-07T21:13:50.427259+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "SUPPLY,DELIVERY AND INSTALLATION OF ASSORTED  METERS.",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "",
+      "deadline": "2026-09-10",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304762",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-07T21:13:48.673202+00:00"
+    },
+    {
+      "title": "Supply and delivery of Assorted Exotic tree seedlings for Plantation Establishment at Kiptogot Forest.",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "",
+      "deadline": "2026-09-10",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304772",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-07T21:13:48.671821+00:00"
+    },
     {
       "title": "PROPOSED RENOVATION OF KWIHOTA POLICE POST IN RUIRU CONSTITUENCY.",
       "entity": "",
@@ -697,30 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-09-04T10:49:08.768151+00:00"
-    },
-    {
-      "title": "TENDER FOR THE PROVISION OF GENERAL INSURANCE SERVICES FOR MOTOR VEHICLES AND MOTOR CYCLES",
-      "entity": "",
-      "category": "Transport",
-      "county": "Kitui",
-      "deadline": "2026-09-07",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304320",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-04T10:49:08.766923+00:00"
-    },
-    {
-      "title": "SUPPLY, DELIVERY AND INSTALLATION OF PORTABLE DIGITAL SCREENS AND ACCESSORIES AS PER THE SPECIFICATIONS PROVIDED",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Kisii",
-      "deadline": "2026-09-07",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304371",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-04T10:49:08.765604+00:00"
     }
   ]
 }
