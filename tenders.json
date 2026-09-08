@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-08T16:11:50.943417+00:00",
+  "generated_at": "2026-09-08T20:50:39.562575+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROVISION OF EVENTS MANAGEMENT SERVICES FOR SOLID WASTE MANAGEMENT PUBLIC ENGAGEMENT",
+      "entity": "",
+      "category": "Security",
+      "county": "Kisii",
+      "deadline": "2026-09-11",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304773",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-08T20:50:37.816998+00:00"
+    },
+    {
+      "title": "CONSULTANCY SERVICES FOR FEASIBILITY STUDY FOR THE PROPOSED CABRO PAVING OF TRADE JUNCTION OFFICES TO KWALE HIGH COURT ROAD.",
+      "entity": "",
+      "category": "Consultancy",
+      "county": "Kwale",
+      "deadline": "2026-09-11",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304798",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-08T20:50:37.815568+00:00"
+    },
     {
       "title": "PROPOSED CONSTRUCTION OF OFFICE BLOCK FOR DIRECTOR OF EDUCATION IN RUIRU CONSTITUENCY.",
       "entity": "",
@@ -697,30 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-09-04T10:49:08.801393+00:00"
-    },
-    {
-      "title": "PROPOSED RENOVATIONS OF 4 CLASSROOMS TO COMPLETION AT KISSAWAI PRIMARY SCHOOL",
-      "entity": "",
-      "category": "ICT",
-      "county": "Trans Nzoia",
-      "deadline": "2026-09-08",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304101",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-04T10:49:08.800088+00:00"
-    },
-    {
-      "title": "PROPOSED RENOVATION OF 5 CLASSROOMS TO COMPLETION AT KOYKOY PRIMARY SCHOOL",
-      "entity": "",
-      "category": "ICT",
-      "county": "Trans Nzoia",
-      "deadline": "2026-09-08",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304102",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-04T10:49:08.798711+00:00"
     }
   ]
 }
