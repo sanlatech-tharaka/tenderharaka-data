@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-11T16:02:57.755428+00:00",
+  "generated_at": "2026-09-11T20:37:55.099577+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROPOSED PIPELINE EXTENSION FOR BURA WATER SUPPLY.",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Garissa",
+      "deadline": "2026-09-15",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304580",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-11T20:37:52.138515+00:00"
+    },
+    {
+      "title": "PROPOSED GURUFA WATER PROJECT",
+      "entity": "",
+      "category": "Security",
+      "county": "Garissa",
+      "deadline": "2026-09-15",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304581",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-11T20:37:52.136665+00:00"
+    },
     {
       "title": "REQUEST FOR PROPOSAL FOR PROVISION OF CONSULTANCY SERVICE ON THE REVIEW OF THE TRANSFER PRICING POLICY.",
       "entity": "",
@@ -697,30 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-09-10T10:51:01.814707+00:00"
-    },
-    {
-      "title": "NCWSC/05/2026 - PROPOSED KIKUYU 1 SPRINGS INTAKE FLOOD PROTECTION WORKS (RESERVED FOR YOUTH, WOMEN & PERSONS WITH DISABILITY)",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-09-11",
-      "agpo": "Youth",
-      "url": "https://tenders.go.ke/tenders/304988",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-10T10:51:01.812794+00:00"
-    },
-    {
-      "title": "TENDER FOR PROVISION OF INTERNET SERVICES",
-      "entity": "",
-      "category": "Security",
-      "county": "Kisii",
-      "deadline": "2026-09-11",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304768",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-09T10:54:45.168400+00:00"
     }
   ]
 }
