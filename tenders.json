@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-12T03:37:51.407620+00:00",
+  "generated_at": "2026-09-12T10:16:19.399077+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROPOSED PIPELINE EXTENSION FOR MASALANI",
+      "entity": "",
+      "category": "Security",
+      "county": "Garissa",
+      "deadline": "2026-09-15",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304577",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-12T10:16:16.467533+00:00"
+    },
+    {
+      "title": "PROPOSED PIPELINE EXTENSION FOR DAGAHLEY REFUGEE CAMP",
+      "entity": "",
+      "category": "Security",
+      "county": "Garissa",
+      "deadline": "2026-09-15",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304579",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-12T10:16:16.465957+00:00"
+    },
     {
       "title": "PROPOSED PIPELINE EXTENSION FOR BURA WATER SUPPLY.",
       "entity": "",
