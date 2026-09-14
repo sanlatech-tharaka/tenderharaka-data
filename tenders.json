@@ -1,7 +1,103 @@
 {
-  "generated_at": "2026-09-14T12:05:55.737357+00:00",
+  "generated_at": "2026-09-14T21:36:23.613706+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "INSTALLATION OF CABROS, CHANNELS,PRECAST INVERTED  BLOCK DRAINS  AND ROAD KERB TO WALKWAYS, DRIVEWAYS AND ASSEMBLY GROUND AND PAINTING  OF TWENTY FOUR (24) CLASSROOMS  AND THREE  (3) OFFICES",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Kirinyaga",
+      "deadline": "2026-09-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/305304",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-14T21:36:21.294046+00:00"
+    },
+    {
+      "title": "INSTALLATION   OF CABROS, CHANNELS,PRECAST INVERTED BLOCK DRAINS AND ROAD KERBS TO WALKWAYS, DRIVEWAYS AND ASSEMBLY GROUND AND PROPOSED PAINTING OF TWENTY SIX (26) CLASSROOMS AND TWO (2) OFFICES.",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Kirinyaga",
+      "deadline": "2026-09-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/305305",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-14T21:36:21.292636+00:00"
+    },
+    {
+      "title": "CONSULTANCY SERVICES FOR ENVIRONMENTAL AND SOCIAL IMPACT ASSESSMENT (ESIA) STUDY FOR THE PROPOSED CABRO PAVING OF TRADE JUNCTION OFFICES TO KWALE HIGH COURT ROAD",
+      "entity": "",
+      "category": "Consultancy",
+      "county": "Kwale",
+      "deadline": "2026-09-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/305318",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-14T21:36:21.291288+00:00"
+    },
+    {
+      "title": "PROPOSED NETWORK INSTALLATION AND SUPPLY OF OFFICE EQUIPMENT AT CHIAKARIGA DIGITAL HUB.",
+      "entity": "",
+      "category": "ICT",
+      "county": "",
+      "deadline": "2026-09-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/305326",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-14T21:36:21.289785+00:00"
+    },
+    {
+      "title": "SUPPLY AND DELIVERY OF INDIGINOUS TREE SEEDLINGS AND FENCING AROUND USING CHICKEN WIREMESH.",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "",
+      "deadline": "2026-09-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/305329",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-14T21:36:21.288404+00:00"
+    },
+    {
+      "title": "OPEN NATIONAL TENDER FOR SUPPLY, DELIVERY AND OFFLOADING OF CONSTRUCTION MATERIALS FOR THE PROPOSED COMPLETION OF THE TOP FLOOR OF THE DORMITORY BLOCK AT KIANYAGA BOYS HIGH SCHOOL",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "",
+      "deadline": "2026-09-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/305389",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-14T21:36:21.286932+00:00"
+    },
+    {
+      "title": "OPEN TENDER FOR THE PROVISION OF LABOUR FOR THE PROPOSED COMPLETION OF THE TOP FLOOR OF THE DORMITORY BLOCK.",
+      "entity": "",
+      "category": "Security",
+      "county": "",
+      "deadline": "2026-09-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/305391",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-14T21:36:21.285617+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION TO COMPLETION OF  ADMINISTRATION BLOCK AT MURUNGENE PRIMARY SCHOOL",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-09-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/305430",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-14T21:36:21.284204+00:00"
+    },
     {
       "title": "ROPOSED COMPLETION OF ADMINISTRATION BLOCK  AT LORORO GENERAL SERVICE UNIT CAMP",
       "entity": "",
@@ -625,102 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-09-11T10:46:59.485055+00:00"
-    },
-    {
-      "title": "LIST OF REGISTERED SUPPLIERS FOR YEARS 2023 -2025",
-      "entity": "PPRA-listed entity",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "",
-      "agpo": "Women",
-      "url": "https://ppra.go.ke/list-of-registered-suppliers-for-years-2023-2025/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-11T10:46:52.164158+00:00"
-    },
-    {
-      "title": "LETTING OF MAMA NGINA UNIVERSITY COLLEGE CAFETERIA SPACE",
-      "entity": "",
-      "category": "Security",
-      "county": "",
-      "deadline": "2026-09-14",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304983",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-10T10:51:01.875784+00:00"
-    },
-    {
-      "title": "Provision of Medical Insurance Services",
-      "entity": "",
-      "category": "Healthcare",
-      "county": "Nairobi",
-      "deadline": "2026-09-14",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304705",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-10T10:51:01.873649+00:00"
-    },
-    {
-      "title": "Provision of General Insurance Services",
-      "entity": "",
-      "category": "Security",
-      "county": "Nairobi",
-      "deadline": "2026-09-14",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304708",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-10T10:51:01.871570+00:00"
-    },
-    {
-      "title": "AFFORESTATI ON; Land  preparation, purchase,  transportation  and planting  of 22,817  assorted  indigenous  and exotic  tree seedlings",
-      "entity": "",
-      "category": "Security",
-      "county": "Trans Nzoia",
-      "deadline": "2026-09-14",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/305036",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-10T10:51:01.869690+00:00"
-    },
-    {
-      "title": "PROPOSED LEASE OF MOTOR VEHICLES TO THE JUDICIARY UNDER A FRAMEWORK CONTRACT FOR A PERIOD OF THREE (3) YEARS",
-      "entity": "",
-      "category": "Transport",
-      "county": "",
-      "deadline": "2026-09-14",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304221",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-10T10:51:01.867785+00:00"
-    },
-    {
-      "title": "RENOVATION TO COMPLETION OF THE DIGITAL HUB, STRUCTURAL CABLING, TRUCKING CABLING, ROUTERS, WIFI UPS 4NO WORKSTATION, 30 CHAIRS , 12 EXTENTION OF LOCAL AREA NETWORK (LAN) FOR THE DIGITAL HUB",
-      "entity": "",
-      "category": "ICT",
-      "county": "",
-      "deadline": "2026-09-14",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304825",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-10T10:51:01.866052+00:00"
-    },
-    {
-      "title": "Proposed construction of 1 classroom and supply of 20 lockers and chairs",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-09-14",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304916",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-10T10:51:01.864245+00:00"
     }
   ]
 }
