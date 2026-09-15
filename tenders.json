@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-15T16:29:19.788575+00:00",
+  "generated_at": "2026-09-15T20:58:01.675978+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "Registration of Suppliers for Supply and Delivery of Medical, Laboratory, Dental, Orthopedic, Radiology Equipment and Accessories, Cold Chain Storage Facilities (Mortuary Cold Storage Equipment and materials).",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Kitui",
+      "deadline": "2026-09-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304197",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-15T20:57:59.138457+00:00"
+    },
+    {
+      "title": "Registration of Suppliers for Supply and Delivery of Pharmaceutical, Non-Pharmaceutical Materials, Renal Consumables, Radiology consumables, Laboratory items/reagents, Dental materials and Vaccines.",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Kitui",
+      "deadline": "2026-09-17",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/304199",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-15T20:57:59.137101+00:00"
+    },
     {
       "title": "Registration of Suppliers for Supply and Delivery of General Office Stationery and Computer Stationery (Tonners, Flash Disks etc)",
       "entity": "",
@@ -697,30 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-09-11T20:37:52.136665+00:00"
-    },
-    {
-      "title": "REQUEST FOR PROPOSAL FOR PROVISION OF CONSULTANCY SERVICE ON THE REVIEW OF THE TRANSFER PRICING POLICY.",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-09-15",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304602",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-11T10:46:59.533839+00:00"
-    },
-    {
-      "title": "PROPOSED DISPOSAL OF MOTOR VEHICLE ISUZU DOUBLE CABIN PICKUP",
-      "entity": "",
-      "category": "Transport",
-      "county": "",
-      "deadline": "2026-09-15",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304668",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-11T10:46:59.531959+00:00"
     }
   ]
 }
