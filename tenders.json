@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-16T16:20:24.124327+00:00",
+  "generated_at": "2026-09-16T20:59:28.362831+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "SUPPLY AND DELIVERY OF AIRTIME",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "",
+      "deadline": "2026-09-21",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/305231",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-16T20:59:25.750646+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION TO COMPLETION OF BAOLALA POLICE  POST",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-09-21",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/305581",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-16T20:59:25.749154+00:00"
+    },
+    {
+      "title": "PROPOSED CONSTRUCTION OF AMINA MNYAZI GIRLS  SECONDARY SCHOOL",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-09-21",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/305582",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-16T20:59:25.747648+00:00"
+    },
     {
       "title": "PROPOSED CONSTRUCTION OF 2 NO CLASSROOMS, 4  DOOR BOYS TOILET WITH URINAL AND 6 DOOR GIRLS TOILETS AT KAJAJINI  PRIMARY SCHOOL",
       "entity": "",
@@ -685,42 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-09-14T12:05:53.142358+00:00"
-    },
-    {
-      "title": "ROPOSED CONSTRUCTION OF ADMINISTRATION  BLOCK AT MBAYO PRIMARY SCHOOL",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-09-17",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/305438",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-14T12:05:53.140713+00:00"
-    },
-    {
-      "title": "TENDER FOR PROVISION OF GROUP LIFE AND PERSONAL ACCIDENT INSURANCE COVER FOR STAFF",
-      "entity": "",
-      "category": "Security",
-      "county": "Kisii",
-      "deadline": "2026-09-17",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/305282",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-14T12:05:53.139171+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION OF SIX CLASSROOMS AT NYANGUBO PRIMARY SCHOOL",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Migori",
-      "deadline": "2026-09-16",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304711",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-14T12:05:53.137508+00:00"
     }
   ]
 }
