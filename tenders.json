@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-17T16:27:58.978305+00:00",
+  "generated_at": "2026-09-17T21:02:36.027757+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "REQUEST FOR PROPOSAL (RFP) FOR FOR CONSULTANCY SERVICES TO UNDERTAKE AN ENVIRONMENTAL SOCIAL IMPACT ASSESSMENT STUDY(ESIA) AND SURVEY REPORTS FOR PROJECTS",
+      "entity": "",
+      "category": "Consultancy",
+      "county": "Machakos",
+      "deadline": "2026-09-22",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/305921",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-17T21:02:32.830154+00:00"
+    },
     {
       "title": "supply and delivery of personal protective equipment, uniforms and cleaning tools",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-09-15T11:18:05.600042+00:00"
-    },
-    {
-      "title": "Registration of suppliers for Sport Equipment, Education/Library Materials, ECDE materials and equipment, PWD Assistive tools/Equipment",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Kitui",
-      "deadline": "2026-09-17",
-      "agpo": "PWD",
-      "url": "https://tenders.go.ke/tenders/304208",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-15T11:18:05.598245+00:00"
     }
   ]
 }
