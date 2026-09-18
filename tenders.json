@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-18T10:44:42.421073+00:00",
+  "generated_at": "2026-09-18T15:59:56.962540+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "SUPPLY, INSTALLATION, AND CONFIGURATION OF 25 NO.  GEOSPATIAL SOFTWARE LICENSES, 15 NO. ENGINEERING DESIGN  SOFTWARE LICENSES, 10 NO. DOCUMENT MANAGEMENT SOFTWARE LICENSES, 10 NO. CLOUD STORAGE LICENSES, 6 NO.  ANALYSIS SOFTWARE LICENSES",
+      "entity": "",
+      "category": "ICT",
+      "county": "Nairobi",
+      "deadline": "2026-09-22",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/303492",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-18T15:59:55.252946+00:00"
+    },
+    {
+      "title": "SUPPLY AND DELIVERY OF IABORATORY EQUIPMENT (PHYSICS, BIOLOGY AND CHEMISTRY) AT KAMUNYU SECONDARY SCHOOL FOR NG - CDF MASINGA",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "",
+      "deadline": "2026-09-22",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/305141",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-18T15:59:55.246589+00:00"
+    },
     {
       "title": "SUPPLY AND DELIVERY OF IABORATORY EQUIPMENT (PHYSICS, BIOLOGY AND CHEMISTRY) AT KIKULE SECONDARY SCHOOL FOR NG - CDF MASINGA",
       "entity": "",
@@ -697,30 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-09-16T16:20:22.295688+00:00"
-    },
-    {
-      "title": "PROPOSED RECONSTRUCTION OF 1 NO. DORMITORY BLOCK AT KIVAYWA BOYS’ HIGH SCHOOL IN MATETE SUB-COUNTY, LUGARI CONSTITUENCY",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Kakamega",
-      "deadline": "2026-09-18",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/305491",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-16T16:20:22.294323+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION OF A SCIENCE COMPLEX AT KAPSABET BOYS’ HIGH SCHOOL(LABOUR ONLY)",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-09-18",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304766",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-09-16T16:20:22.292850+00:00"
     }
   ]
 }
