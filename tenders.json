@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-20T20:27:59.678802+00:00",
+  "generated_at": "2026-09-21T03:51:59.499635+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "SUPPLY AND DELIVERY OF 1NO. 51 SEATER SEMI LUXURY SCHOOL BUS FOR ST. ELIZABETH BUMIA GIRLS SENIOR SCHOOL",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "",
+      "deadline": "2026-09-22",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/305780",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-21T03:51:57.358379+00:00"
+    },
+    {
+      "title": "TENDER FOR THE LEASE TO OPERATE AND MANAGE THE UNIVERSITY STAFF CAFETERIA AT JUJA MAIN CAMPUS",
+      "entity": "",
+      "category": "Security",
+      "county": "",
+      "deadline": "2026-09-22",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/305106",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-09-21T03:51:57.356739+00:00"
+    },
     {
       "title": "SUPPLY, INSTALLATION, AND CONFIGURATION OF 25 NO.  GEOSPATIAL SOFTWARE LICENSES, 15 NO. ENGINEERING DESIGN  SOFTWARE LICENSES, 10 NO. DOCUMENT MANAGEMENT SOFTWARE LICENSES, 10 NO. CLOUD STORAGE LICENSES, 6 NO.  ANALYSIS SOFTWARE LICENSES",
       "entity": "",
@@ -697,30 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.873323+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/RFP/006/2024–2025 FOR CONSULTANCY SERVICES FOR PROVISION OF TRAINING TO PPRA STAFF AND PERSONS  INVOLVED IN PUBLIC PROCUREMENT AND ASSET DISPOSAL SYSTEM",
-      "entity": "PPRA-listed entity",
-      "category": "ICT",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-for-consultancy-services-for-provision-of-training-to-ppra-staff-and-persons-involved-in-public-procurement-and-asset-disposal-system/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.872054+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/OT/28/2024-2025 FOR PROCUREMENT OF OFFICE PREMISES",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "Kisumu",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppraot282024-2025-for-procurement-of-office-premises/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.870904+00:00"
     }
   ]
 }
