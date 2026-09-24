@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:14:05.047737+00:00",
+  "generated_at": "2026-09-24T03:39:24.427167+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
     {
@@ -687,40 +687,40 @@
       "first_seen": "2026-09-21T12:14:55.157742+00:00"
     },
     {
-      "title": "Proposed renovation of Hematology Laboratory",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-09-23",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/305287",
-      "source": "tenders.go.ke",
+      "title": "LIST OF REGISTERED SUPPLIERS FOR YEARS 2023 -2025",
+      "entity": "PPRA-listed entity",
+      "category": "Supply of Goods",
+      "county": "",
+      "deadline": "",
+      "agpo": "Women",
+      "url": "https://ppra.go.ke/list-of-registered-suppliers-for-years-2023-2025/",
+      "source": "ppra.go.ke",
       "summary": "",
-      "first_seen": "2026-09-21T12:14:55.156129+00:00"
+      "first_seen": "2026-09-11T10:46:52.164158+00:00"
     },
     {
-      "title": "DISPOSAL OF GK MOTORVEHICLE",
-      "entity": "",
+      "title": "TENDER NO. PPRA/DISP/OT/001/2025-2026 FOR DISPOSAL OF MOTOR VEHICLE",
+      "entity": "PPRA-listed entity",
       "category": "Transport",
       "county": "",
-      "deadline": "2026-09-23",
+      "deadline": "",
       "agpo": "",
-      "url": "https://tenders.go.ke/tenders/305760",
-      "source": "tenders.go.ke",
+      "url": "https://ppra.go.ke/tender-no-ppradispot0012025-2026-for-disposal-of-motor-vehicle/",
+      "source": "ppra.go.ke",
       "summary": "",
-      "first_seen": "2026-09-21T12:14:55.154565+00:00"
+      "first_seen": "2026-06-29T14:51:06.940705+00:00"
     },
     {
-      "title": "COMPREHENSIVE MAINTENANCE AND SUPPORT FOR THE DATA CENTER  ENVIRONMENT MONITORING SYSTEM AND SUPPLY OF SPARE PARTS UNDER  FRAMEWORK CONTRACT FOR CENTRAL BANK OF KENYA FOR PERIOD OF THREE  YEARS",
-      "entity": "",
-      "category": "ICT",
+      "title": "PPRA/OT/05/2023-2024 – LEASING & MAINTENANCE OF MULTIFUNCTIONAL PRINTERS",
+      "entity": "PPRA-listed entity",
+      "category": "",
       "county": "",
-      "deadline": "2026-09-23",
+      "deadline": "",
       "agpo": "",
-      "url": "https://tenders.go.ke/tenders/304792",
-      "source": "tenders.go.ke",
+      "url": "https://ppra.go.ke/leasing-tender-2024/",
+      "source": "ppra.go.ke",
       "summary": "",
-      "first_seen": "2026-09-21T12:14:55.152891+00:00"
+      "first_seen": "2026-06-13T18:58:02.878695+00:00"
     }
   ]
 }
