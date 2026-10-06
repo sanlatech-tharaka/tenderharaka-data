@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-06T12:56:30.790971+00:00",
+  "generated_at": "2026-10-06T22:27:00.343146+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "SUPPLIER REGISTRATION FY 2026/27-2027/28",
+      "entity": "PPRA-listed entity",
+      "category": "",
+      "county": "",
+      "deadline": "",
+      "agpo": "Youth",
+      "url": "https://ppra.go.ke/supplier-registration-fy-202627-202728/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-10-06T22:26:50.828551+00:00"
+    },
     {
       "title": "PROPOSED COMPLETION OF DISPENSARY BLOCK AND 2NO. CUBICLE PIT LATRINE AT JIMBA DISPENSARY IN RURUMA WARD",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-10-05T13:53:48.214532+00:00"
-    },
-    {
-      "title": "Tender for the Proposed  Installation of Gutters,  Elevated Water Tank and  Construction Of 12,500  Litres Septic Tanks at  Mwega Dispensary in  Naivasha East Ward,  Naivasha Sub-County.",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nakuru",
-      "deadline": "2026-10-06",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/306736",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-10-05T13:53:48.213006+00:00"
     }
   ]
 }
