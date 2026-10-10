@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-10T04:50:22.327616+00:00",
+  "generated_at": "2026-10-10T12:03:59.886396+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROPOSED CONSTRUCTION OF I NO CLASSROOM TO COMPLETION AT MOI KABARTONJO VI SPECIAL SCHOOL",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Baringo",
+      "deadline": "2026-10-13",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/307519",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-10-10T12:03:57.812266+00:00"
+    },
     {
       "title": "PROPOSED CONSTRUCTION TO COMPLETION OF I NO CLASSROOM AT BOSSEI PRIMARY SCHOOL",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.872054+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/OT/28/2024-2025 FOR PROCUREMENT OF OFFICE PREMISES",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "Kisumu",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppraot282024-2025-for-procurement-of-office-premises/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.870904+00:00"
     }
   ]
 }
