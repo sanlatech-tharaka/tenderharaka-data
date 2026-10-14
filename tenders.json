@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-14T11:23:03.737042+00:00",
+  "generated_at": "2026-10-14T16:44:02.480063+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "DRILLING, EQUIPPING & CIVIL WORKS FOR ILDOLISHO BOREHOLE WATER PROJECT IN KILGORIS - NAROK COUNTY",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nakuru",
+      "deadline": "2026-10-15",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/306985",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-10-14T16:44:00.790219+00:00"
+    },
     {
       "title": "DRILLING, EQUIPPING & CIVIL WORKS FOR OLE TOTONA ACHIEVERS’ BOREHOLE IN NAROK SOUTH, NAROK COUNTY",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-10-13T13:45:27.339993+00:00"
-    },
-    {
-      "title": "PROVISION OF STAFF MEDICAL INSURANCE",
-      "entity": "",
-      "category": "Healthcare",
-      "county": "Kisumu",
-      "deadline": "2026-10-14",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/307462",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-10-13T13:45:27.338890+00:00"
     }
   ]
 }
