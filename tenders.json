@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-15T11:00:07.325743+00:00",
+  "generated_at": "2026-10-15T16:29:45.223915+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "Keiyo Division Assistant County Commissioner Offices\tConstruction of offices block",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "",
+      "deadline": "2026-10-19",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/308262",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-10-15T16:29:43.105991+00:00"
+    },
     {
       "title": "Kipsoen Primary School\tRenovation of  five classrooms",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-10-14T11:23:00.126089+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION OF COUNTY AGGREGATION AND INDUSTRIAL PARKS",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-10-15",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/307270",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-10-14T11:23:00.124728+00:00"
     }
   ]
 }
