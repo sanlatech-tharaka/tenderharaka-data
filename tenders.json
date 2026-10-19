@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-10-18T20:14:27.404196+00:00",
+  "generated_at": "2026-10-19T03:42:26.767164+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "Tender for the proposed  pipeline extension from  tank towards Tachasis  Pendle Primary School  and Supply, Installation,  Testing and  Commissioning of A  7.5kw Motor at  Mungetho Dispensary  Water Works in Nyota  in Nyota Ward, Kuresoi  North Sub County.",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nakuru",
+      "deadline": "2026-10-19",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/308209",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-10-19T03:42:25.238570+00:00"
+    },
+    {
+      "title": "Tender for the  proposed construction  of sewerage  infrastructure and  associated fittings in  Kabati, Naivasha Sub  County.",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nakuru",
+      "deadline": "2026-10-19",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/308210",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-10-19T03:42:25.237056+00:00"
+    },
+    {
+      "title": "Tender for the proposed  supply of pipes to  Naivawasco for Water  Piping in Various Water  Projects.",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nakuru",
+      "deadline": "2026-10-19",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/308211",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-10-19T03:42:25.235578+00:00"
+    },
+    {
+      "title": "Tender for the purchase  of borehole drilling  casings, screens, gravel  packing materials.",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Nakuru",
+      "deadline": "2026-10-19",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/308212",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-10-19T03:42:25.234116+00:00"
+    },
     {
       "title": "Tender for the  proposed desilting of  storm water retention  pond at Old Town  Treatment Works.",
       "entity": "",
@@ -673,54 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.876130+00:00"
-    },
-    {
-      "title": "TENDER No. PPRA/OT/04/2024-2025 FOR SUPPLY & DELIVERY OF LAPTOPS",
-      "entity": "PPRA-listed entity",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-laptops-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.874911+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/05/2024-2025 FOR  PROVISION OF MEDICAL INSURANCE COVER FOR BOARD MEMBERS AND STAFF",
-      "entity": "PPRA-listed entity",
-      "category": "Healthcare",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppra052024-2025-for-provision-of-medical-insurance-cover-for-board-members-and-staff/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.873323+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/RFP/006/2024–2025 FOR CONSULTANCY SERVICES FOR PROVISION OF TRAINING TO PPRA STAFF AND PERSONS  INVOLVED IN PUBLIC PROCUREMENT AND ASSET DISPOSAL SYSTEM",
-      "entity": "PPRA-listed entity",
-      "category": "ICT",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-for-consultancy-services-for-provision-of-training-to-ppra-staff-and-persons-involved-in-public-procurement-and-asset-disposal-system/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.872054+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/OT/28/2024-2025 FOR PROCUREMENT OF OFFICE PREMISES",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "Kisumu",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppraot282024-2025-for-procurement-of-office-premises/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.870904+00:00"
     }
   ]
 }
