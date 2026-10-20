@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-20T03:53:24.824787+00:00",
+  "generated_at": "2026-10-20T11:04:18.326277+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROPOSED CONSTRUCTION OF SINGLE STOREY ADMINISTRATION BLOCK (GROUND FLOOR) AT NKOROI SECONDARY SCHOOL",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Kajiado",
+      "deadline": "2026-10-22",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/308730",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-10-20T11:04:16.195428+00:00"
+    },
     {
       "title": "PROPOSED 1NO SINGLE BEDROOM STAFF HOUSES OF A SINGLE STOREY BLOCK AT NAKEEL SECONDARY SCHOOL",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.872054+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/OT/28/2024-2025 FOR PROCUREMENT OF OFFICE PREMISES",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "Kisumu",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppraot282024-2025-for-procurement-of-office-premises/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.870904+00:00"
     }
   ]
 }
