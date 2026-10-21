@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:21:12.689985+00:00",
+  "generated_at": "2026-10-21T03:43:40.827549+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
     {
@@ -603,18 +603,6 @@
       "first_seen": "2026-10-19T22:05:22.302408+00:00"
     },
     {
-      "title": "REQUEST FOR PROPOSAL (RFP) FOR CONSULTANCY SERVICES FOR GOVERNANCE ASSESSMENT FOR WATER SECTOR TRUST FUND",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "Nairobi",
-      "deadline": "2026-10-20",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/307521",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-10-19T22:05:22.300577+00:00"
-    },
-    {
       "title": "SUPPLIER REGISTRATION FY 2026/27-2027/28",
       "entity": "PPRA-listed entity",
       "category": "",
@@ -721,6 +709,18 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.872054+00:00"
+    },
+    {
+      "title": "TENDER NO. PPRA/OT/28/2024-2025 FOR PROCUREMENT OF OFFICE PREMISES",
+      "entity": "PPRA-listed entity",
+      "category": "",
+      "county": "Kisumu",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-no-ppraot282024-2025-for-procurement-of-office-premises/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.870904+00:00"
     }
   ]
 }
