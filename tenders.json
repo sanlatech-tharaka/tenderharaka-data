@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-24T03:42:05.212348+00:00",
+  "generated_at": "2026-10-24T10:28:38.101361+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "FRAMEWORK AGREEMENT FOR SUPPLY AND DELIVERY OF FOOD RATION (DRY  FOODSTUFFS AND PERISHABLES.",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Kirinyaga",
+      "deadline": "2026-10-27",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/307652",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-10-24T10:28:35.209552+00:00"
+    },
     {
       "title": "FRAMEWORK AGREEMENT FOR SUPPLY AND DELIVERY OF FUEL (DIESEL, PETROL)  AND LUBRICANTS",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.872054+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/OT/28/2024-2025 FOR PROCUREMENT OF OFFICE PREMISES",
-      "entity": "PPRA-listed entity",
-      "category": "",
-      "county": "Kisumu",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppraot282024-2025-for-procurement-of-office-premises/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.870904+00:00"
     }
   ]
 }
