@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-27T11:45:08.555492+00:00",
+  "generated_at": "2026-10-27T17:38:19.404114+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "Provision of Legal Services",
+      "entity": "",
+      "category": "ICT",
+      "county": "Nyamira",
+      "deadline": "2026-10-28",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/309015",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-10-27T17:38:16.613165+00:00"
+    },
+    {
+      "title": "Repair and Servicing of Motor Vehicles, Motorcycles & Heavy Equipment",
+      "entity": "",
+      "category": "Transport",
+      "county": "Nyamira",
+      "deadline": "2026-10-28",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/309016",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-10-27T17:38:16.611875+00:00"
+    },
     {
       "title": "SUPPLY OF CONFERENCE PACKAGE AND CATERING SERVICES",
       "entity": "",
@@ -697,30 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-10-26T12:26:31.024368+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION OF 8 NO. DOOR PIT LATRINE.50 METRES PERIMETER WALL AND A GATE AT GITHUNGURI JETVIEW PRIMARY SCHOOL.",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-10-27",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/308718",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-10-26T12:26:31.023053+00:00"
-    },
-    {
-      "title": "PROPOSED CONSTRUCTION OF 2 NO. CLASSROOM BLOCK AT NGELANI RANCH PRIMARY SCHOOL",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-10-27",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/308719",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-10-26T12:26:31.021682+00:00"
     }
   ]
 }
