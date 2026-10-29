@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-29T12:27:51.183265+00:00",
+  "generated_at": "2026-10-29T22:31:34.478848+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "PROPOSED SUPPLY AND DELIVERY OF HIGH PEAK PYRAMID  TENTS WITH A CAPACITY OF 100 SEATER",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Kakamega",
+      "deadline": "2026-11-02",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/309961",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-10-29T22:31:31.558716+00:00"
+    },
     {
       "title": "SUPPLY AND DELIVERY OF 110 NO. PLASTIC WATER  TANKS, 5,000 LITRES CAPACITY, BRANDED WITH NGAAF  LOGO AND COLOURS, TO BE DISTRIBUTED TO VARIOUS  SCHOOLS IN KAKAMEGA COUNTY",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-10-28T12:18:14.936570+00:00"
-    },
-    {
-      "title": "Proposed Construction of ICT Digital Hub at East Seme Chief’s Office",
-      "entity": "",
-      "category": "ICT",
-      "county": "",
-      "deadline": "2026-10-29",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/309256",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-10-28T12:18:14.934989+00:00"
     }
   ]
 }
