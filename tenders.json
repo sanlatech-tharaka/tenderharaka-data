@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T22:56:24.265356+00:00",
+  "generated_at": "2026-11-11T05:07:58.406383+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
     {
@@ -603,30 +603,6 @@
       "first_seen": "2026-11-10T22:56:19.835786+00:00"
     },
     {
-      "title": "SUPPLY AND DELIVERY OF 7NO SKIP BINS-RETENDER",
-      "entity": "",
-      "category": "Supply of Goods",
-      "county": "Kwale",
-      "deadline": "2026-11-10",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/311030",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-11-06T22:47:56.539452+00:00"
-    },
-    {
-      "title": "ERECTION AND COMPLETION WORKS OF 2NO.CLASSROOMS AT CHEBIN PRIMARY SCHOOL",
-      "entity": "",
-      "category": "Construction/Works",
-      "county": "",
-      "deadline": "2026-11-10",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/310651",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-11-06T22:47:56.538121+00:00"
-    },
-    {
       "title": "INVITATION TO PENSION SCHEME TENDERS",
       "entity": "PPRA-listed entity",
       "category": "",
@@ -721,6 +697,30 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.874911+00:00"
+    },
+    {
+      "title": "TENDER NO. PPRA/05/2024-2025 FOR  PROVISION OF MEDICAL INSURANCE COVER FOR BOARD MEMBERS AND STAFF",
+      "entity": "PPRA-listed entity",
+      "category": "Healthcare",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-no-ppra052024-2025-for-provision-of-medical-insurance-cover-for-board-members-and-staff/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.873323+00:00"
+    },
+    {
+      "title": "TENDER NO. PPRA/RFP/006/2024–2025 FOR CONSULTANCY SERVICES FOR PROVISION OF TRAINING TO PPRA STAFF AND PERSONS  INVOLVED IN PUBLIC PROCUREMENT AND ASSET DISPOSAL SYSTEM",
+      "entity": "PPRA-listed entity",
+      "category": "ICT",
+      "county": "",
+      "deadline": "",
+      "agpo": "",
+      "url": "https://ppra.go.ke/tender-no-pprarfp0062024-2025-for-consultancy-services-for-provision-of-training-to-ppra-staff-and-persons-involved-in-public-procurement-and-asset-disposal-system/",
+      "source": "ppra.go.ke",
+      "summary": "",
+      "first_seen": "2026-06-13T18:58:02.872054+00:00"
     }
   ]
 }
