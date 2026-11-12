@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-12T14:47:05.341845+00:00",
+  "generated_at": "2026-11-12T23:17:24.251844+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "UPGRADING OF TULUKUYU PRIMARY BOREHOLE AND REPAIR OF BOREHOLE IN KIMAETI WARD",
+      "entity": "",
+      "category": "Construction/Works",
+      "county": "Bungoma",
+      "deadline": "2026-11-13",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/311114",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-11-12T23:17:17.975393+00:00"
+    },
     {
       "title": "DRILLING AND UPGRADING OF MABWI VTC BOREHOLE IN LUUYA/MBWAKE WARD",
       "entity": "",
@@ -709,18 +721,6 @@
       "source": "tenders.go.ke",
       "summary": "",
       "first_seen": "2026-11-11T13:43:58.536446+00:00"
-    },
-    {
-      "title": "Individual Consultant- Program Implementation Officer KDSP II Key Result Area 3 (Oversight, Participation and Accountability",
-      "entity": "",
-      "category": "Security",
-      "county": "Nairobi",
-      "deadline": "2026-11-12",
-      "agpo": "",
-      "url": "https://tenders.go.ke/tenders/310370",
-      "source": "tenders.go.ke",
-      "summary": "",
-      "first_seen": "2026-11-11T13:43:58.535202+00:00"
     }
   ]
 }
