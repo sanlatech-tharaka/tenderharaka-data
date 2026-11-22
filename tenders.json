@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-22T14:14:31.421959+00:00",
+  "generated_at": "2026-11-22T23:20:58.822066+00:00",
   "source_note": "Public procurement notices aggregated from official Government of Kenya portals.",
   "tenders": [
+    {
+      "title": "Framework Contract for the supply of motor vehicle fuel, oil, lubricants and other related services",
+      "entity": "",
+      "category": "Transport",
+      "county": "Nyandarua",
+      "deadline": "2026-11-23",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/311809",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-11-22T23:20:56.449955+00:00"
+    },
+    {
+      "title": "Supply and delivery of airtime-Framework agreement.",
+      "entity": "",
+      "category": "Supply of Goods",
+      "county": "Nyandarua",
+      "deadline": "2026-11-23",
+      "agpo": "",
+      "url": "https://tenders.go.ke/tenders/311811",
+      "source": "tenders.go.ke",
+      "summary": "",
+      "first_seen": "2026-11-22T23:20:56.448395+00:00"
+    },
     {
       "title": "Provision of local and international travel agency & air ticketing services-Framework agreement",
       "entity": "",
@@ -697,30 +721,6 @@
       "source": "ppra.go.ke",
       "summary": "",
       "first_seen": "2026-06-13T18:58:02.876130+00:00"
-    },
-    {
-      "title": "TENDER No. PPRA/OT/04/2024-2025 FOR SUPPLY & DELIVERY OF LAPTOPS",
-      "entity": "PPRA-listed entity",
-      "category": "Supply of Goods",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-laptops-2024/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.874911+00:00"
-    },
-    {
-      "title": "TENDER NO. PPRA/05/2024-2025 FOR  PROVISION OF MEDICAL INSURANCE COVER FOR BOARD MEMBERS AND STAFF",
-      "entity": "PPRA-listed entity",
-      "category": "Healthcare",
-      "county": "",
-      "deadline": "",
-      "agpo": "",
-      "url": "https://ppra.go.ke/tender-no-ppra052024-2025-for-provision-of-medical-insurance-cover-for-board-members-and-staff/",
-      "source": "ppra.go.ke",
-      "summary": "",
-      "first_seen": "2026-06-13T18:58:02.873323+00:00"
     }
   ]
 }
